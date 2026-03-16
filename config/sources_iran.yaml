@@ -1,0 +1,86 @@
+# Fuentes RSS — Iran OSINT Monitor
+# Organizadas por bando/posición geopolítica
+
+pro_occidente:
+  - name: Reuters
+    url: https://feeds.reuters.com/reuters/worldNews
+    lang: en
+    bias: western
+  - name: BBC World
+    url: http://feeds.bbci.co.uk/news/world/rss.xml
+    lang: en
+    bias: western
+  - name: Times of Israel
+    url: https://www.timesofisrael.com/feed/
+    lang: en
+    bias: israel
+  - name: France24
+    url: https://www.france24.com/en/rss
+    lang: en
+    bias: western
+  - name: AP News
+    url: https://rsshub.app/apnews/topics/world-news
+    lang: en
+    bias: western
+
+pro_iran_eje:
+  - name: Press TV
+    url: https://www.presstv.ir/rss.xml
+    lang: en
+    bias: iran
+  - name: Al Mayadeen
+    url: https://english.almayadeen.net/rss.xml
+    lang: en
+    bias: iran
+  - name: TASS
+    url: https://tass.com/rss/v2.xml
+    lang: en
+    bias: russia
+  - name: Xinhua
+    url: http://www.xinhuanet.com/english/rss/worldrss.xml
+    lang: en
+    bias: china
+
+neutros_regionales:
+  - name: Al Jazeera
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    lang: en
+    bias: neutral_gulf
+  - name: Middle East Eye
+    url: https://www.middleeasteye.net/rss
+    lang: en
+    bias: neutral
+  - name: Arab News
+    url: https://www.arabnews.com/rss.xml
+    lang: en
+    bias: saudi
+
+keywords_iran:
+  core:
+    - Iran
+    - Islamic Republic
+    - IRGC
+    - Khamenei
+    - nuclear
+    - Ormuz
+    - Strait of Hormuz
+    - Operation Epic Fury
+  proxies:
+    - Hezbollah
+    - Houthis
+    - Hamas
+    - PMF
+    - Popular Mobilization
+  energia:
+    - oil
+    - crude
+    - LNG
+    - Brent
+    - sanctions
+    - embargo
+  diplomatico:
+    - IAEA
+    - UN Security Council
+    - ceasefire
+    - negotiations
+    - E3

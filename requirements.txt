@@ -1,0 +1,13 @@
+streamlit>=1.40.0
+pandas
+plotly
+requests
+pyyaml
+gdeltdoc
+newsapi-python
+anthropic
+python-dotenv
+feedparser
+scikit-learn
+wordcloud
+Pillow
