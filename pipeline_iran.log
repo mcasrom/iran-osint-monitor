@@ -1397,3 +1397,81 @@ energy_tracker.py — 2026-03-19 22:30
 
 ✅ Pipeline completado en 50s — 22:30
 
+[main 4c67d0c] auto: datos 2026-03-19 22:40
+ 10 files changed, 159 insertions(+), 60 deletions(-)
+To https://github.com/mcasrom/iran-osint-monitor.git
+   cb0ff22..4c67d0c  main -> main
+
+✅ Pipeline completado en 53s — 23:00
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-19 23:00
+==================================================
+
+▶ collect_iran.py
+
+==================================================
+collect_iran.py — 2026-03-19 23:00
+==================================================
+
+📡 RSS directos:
+  ✅ Reuters: 0 artículos
+  ✅ BBC World: 21 artículos
+  ✅ Times of Israel: 15 artículos
+  ✅ France24: 23 artículos
+  ✅ AP News: 0 artículos
+  ✅ Press TV: 102 artículos
+  ✅ Al Mayadeen: 0 artículos
+  ✅ TASS: 100 artículos
+  ✅ Xinhua: 20 artículos
+  ✅ Al Jazeera: 25 artículos
+  ✅ Middle East Eye: 20 artículos
+  ✅ Arab News: 0 artículos
+
+🌐 GDELT:
+  ⚠️  GDELT: 
+
+📥 Total recolectados: 155
+📦 Total artículos en BD: 402
+
+✅ collect_iran.py completado
+
+
+▶ detect_narratives_iran.py
+
+==================================================
+detect_narratives_iran.py — 2026-03-19 23:00
+==================================================
+📰 Artículos: 402 | Bandos: {'pro_iran_eje': 174, 'pro_occidente': 117, 'neutros_regionales': 111}
+✅ 8 clusters detectados
+✅ Top keyword: war
+
+
+▶ detect_sentiment_iran.py
+
+==================================================
+detect_sentiment_iran.py — 2026-03-19 23:00
+==================================================
+📰 Analizando 402 artículos...
+✅ Sentimiento global:
+sentiment  count  avg_score
+ negativo    205  -0.997780
+  neutral    179   0.000000
+ positivo     18   0.980667
+
+🤖 Muestra Claude API (10 titulares):
+  ⚠️  Claude API: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CZDC4TZ8d4tehhkqin89D'}
+
+
+▶ energy_tracker.py
+
+==================================================
+energy_tracker.py — 2026-03-19 23:00
+==================================================
+🔑 Alpha Vantage key encontrada
+❌ Sin datos energéticos
+✅ Ormuz: nivel=naranja | alertas=10
+
+
+✅ Pipeline completado en 53s — 23:00
+
