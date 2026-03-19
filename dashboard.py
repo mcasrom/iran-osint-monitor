@@ -197,6 +197,7 @@ with tab2:
         {"pais":"Brazil","lat":-14.24,"lon":-51.93,"posicion":"Neutro/Ambiguo","peso":4,"detalle":"BRICS — abstención ONU"},
         {"pais":"Indonesia","lat":-0.79,"lon":113.92,"posicion":"Neutro/Ambiguo","peso":4,"detalle":"Mayor país musulmán — neutralidad"},
         {"pais":"Egypt","lat":26.82,"lon":30.80,"posicion":"Neutro/Ambiguo","peso":5,"detalle":"Canal Suez — equilibrio regional"},
+        {"pais":"Spain","lat":40.42,"lon":-3.70,"posicion":"Neutro/Ambiguo","peso":6,"detalle":"OTAN member — bases usadas (Morón, Rota) — Sánchez: 'No a la guerra'"},
     ]
 
     df_map = pd.DataFrame(alianzas)

@@ -80,7 +80,7 @@ def detect_narratives(df, n_clusters=8):
     top_global = sorted(zip(feature_names, sums), key=lambda x: -x[1])[:30]
     df_keywords = pd.DataFrame(top_global, columns=["keyword", "score"])
 
-    return df_clusters, df_keywords
+    return df_clusters, df_keywords, df
 
 def divergencia_narrativa(df):
     """Mide qué tan distinta es la cobertura entre bandos para cada cluster"""
@@ -108,11 +108,11 @@ if __name__ == "__main__":
     df["bando"] = df.apply(lambda r: r["bando"] if r["bando"] != "gdelt"
                            else classify_bando(r.get("source","")), axis=1)
     print(f"📰 Artículos: {len(df)} | Bandos: {df['bando'].value_counts().to_dict()}")
-    df_clusters, df_keywords = detect_narratives(df)
+    df_clusters, df_keywords, df_with_clusters = detect_narratives(df)
     if not df_clusters.empty:
         df_clusters.to_csv(os.path.join(DATA_DIR, "iran_narratives.csv"), index=False)
         df_keywords.to_csv(os.path.join(DATA_DIR, "iran_keywords.csv"), index=False)
-        df_div = divergencia_narrativa(df)
+        df_div = divergencia_narrativa(df_with_clusters)
         df_div.to_csv(os.path.join(DATA_DIR, "iran_divergencia.csv"), index=False)
         print(f"✅ {len(df_clusters)} clusters detectados")
         print(f"✅ Top keyword: {df_keywords.iloc[0]['keyword']}")
