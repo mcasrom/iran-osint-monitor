@@ -39,11 +39,12 @@ else:
 st.markdown("---")
 
 # ── TABS ──────────────────────────────────────────────────────────────────────
-tab1, tab2, tab3, tab4 = st.tabs([
+tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "📡 Radar Narrativo",
     "🗺️ Mapa de Alianzas",
     "⚡ Energía & Ormuz",
     "📰 Últimas Noticias",
+    "ℹ️ Guía & Créditos",
 ])
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -370,6 +371,71 @@ with tab4:
                 st.markdown(f"{bando_color} {titulo} — *{row.get('source','')}*")
     else:
         st.info("Sin noticias aún — ejecuta el pipeline primero")
+
+with tab5:
+    st.header("ℹ️ Guía de uso & Créditos")
+    st.markdown("---")
+
+    st.subheader("🎯 ¿Qué es Iran OSINT Monitor?")
+    st.markdown("""
+Plataforma de inteligencia de fuentes abiertas (OSINT) para el seguimiento del conflicto iraní.
+Monitoriza narrativas, alianzas geopolíticas, mercados energéticos y desinformación en tiempo real
+desde **múltiples bandos y perspectivas**.
+    """)
+
+    st.subheader("📡 Cómo interpretar cada tab")
+    st.markdown("""
+| Tab | Qué muestra | Cómo leerlo |
+|-----|-------------|-------------|
+| **Radar Narrativo** | Clusters temáticos por bando | Verde = Occidente domina · Rojo = Irán domina · Gris = equilibrado |
+| **Mapa de Alianzas** | Posicionamiento de países | Azul = Pro-EEUU/Israel · Rojo = Pro-Irán · Amarillo = Neutro |
+| **Energía & Ormuz** | Precio Brent + estado estrecho | Rojo = alerta · Verde = estable |
+| **Últimas Noticias** | Feed por bando geopolítico | 🔵 Occidente · 🔴 Irán · 🟡 Neutros |
+    """)
+
+    st.subheader("➕ Cómo añadir nuevas fuentes RSS")
+    st.markdown("""
+Edita el fichero `config/sources_iran.yaml` en el Odroid:
+```yaml
+pro_occidente:
+  - name: NombreFuente
+    url: https://ejemplo.com/rss.xml
+    lang: en
+    bias: western
+```
+
+**Bandos disponibles:** `pro_occidente`, `pro_iran_eje`, `neutros_regionales`
+
+Tras añadir la fuente, el pipeline la recogerá automáticamente en el siguiente ciclo (cada 30 min).
+    """)
+
+    st.subheader("🔄 Pipeline automático")
+    st.markdown("""
+- **Frecuencia**: cada 30 minutos via cron
+- **Scripts**: `collect_iran.py` → `detect_narratives_iran.py` → `detect_sentiment_iran.py` → `energy_tracker.py`
+- **Log**: `pipeline_iran.log` en el directorio raíz
+    """)
+
+    st.subheader("⚠️ Limitaciones")
+    st.markdown("""
+- El análisis de sentimiento es léxico — no detecta ironía ni contexto complejo
+- Los datos de alianzas del Mapa son semi-estáticos (actualización manual)
+- GDELT requiere ajuste de fechas para funcionar correctamente
+- La API de Claude es opcional — el pipeline funciona sin ella
+    """)
+
+    st.markdown("---")
+    st.subheader("© Créditos & Contacto")
+    st.markdown("""
+**Autor:** M. Castillo  
+**Email:** [mybloggingnotes@gmail.com](mailto:mybloggingnotes@gmail.com)  
+**Proyecto:** Iran OSINT Monitor — Plataforma OSINT Geopolítica  
+**Versión:** v0.2 · Sprint 1  
+**Licencia:** Uso personal e investigación — no redistribuir sin permiso  
+
+*Datos obtenidos de fuentes públicas (RSS, GDELT, Alpha Vantage).  
+Este proyecto no representa ninguna posición política oficial.*
+    """)
 
 st.markdown("---")
 st.caption("🛰️ Iran OSINT Monitor · Sprint 1 · © M. Castillo · mybloggingnotes@gmail.com · v0.1")
