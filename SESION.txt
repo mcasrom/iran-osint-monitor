@@ -1,0 +1,34 @@
+ÚLTIMA SESIÓN: 19 Mar 2026
+═══════════════════════════════════════════════
+
+PROYECTO: Iran OSINT Monitor
+REPO: https://github.com/mcasrom/iran-osint-monitor
+DASHBOARD: pendiente despliegue Streamlit
+
+COMPLETADO HOY:
+- Pipeline completo funcionando (153-216 artículos)
+- Alpha Vantage key configurada → Brent 101$/barril
+- 9 fuentes RSS activas (BBC, France24, Press TV, TASS, Xinhua, Al Jazeera...)
+- detect_narratives fix — columna cluster
+- detect_sentiment funcionando
+- energy_tracker con Alpha Vantage + fallback yfinance
+- Spain añadida al mapa de alianzas (Neutro/Ambiguo)
+- Tab Guía & Créditos añadido
+- Cron cada 30 min — pipeline + push GitHub a :10 y :40
+- Rotación datos 30 días
+- Rotación log 5MB
+
+PENDIENTE:
+1. Añadir Anthropic API key en secrets (nano .streamlit/secrets.toml)
+2. Fix GDELT — error fecha
+3. Desplegar en Streamlit Cloud
+4. Mejorar mapa alianzas con más países
+5. Tab sentimiento por actor/fuente
+
+CRONS ACTIVOS:
+- */30 → pipeline run_all_iran.py
+- 10,40 → push_github.sh
+
+CREDENCIALES:
+- Alpha Vantage: UAKVE176YW0Z7F47
+- Gmail: mcasrom@gmail.com
