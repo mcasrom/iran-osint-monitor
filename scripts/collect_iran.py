@@ -73,6 +73,11 @@ def save_articles(articles):
     if os.path.exists(out):
         df_old = pd.read_csv(out)
         df = pd.concat([df_old, df_new]).drop_duplicates(subset=["id"])
+        # Rotación — mantener solo últimos 30 días
+        if "fetched_at" in df.columns:
+            df["fetched_at"] = pd.to_datetime(df["fetched_at"], errors="coerce")
+            cutoff = pd.Timestamp.now() - pd.Timedelta(days=30)
+            df = df[df["fetched_at"] >= cutoff]
         # Mantener solo últimas 72h
         df["fetched_at"] = pd.to_datetime(df["fetched_at"], errors="coerce")
         cutoff = datetime.now() - timedelta(hours=72)
