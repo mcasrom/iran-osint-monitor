@@ -3969,3 +3969,81 @@ energy_tracker.py — 2026-03-20 15:00
 
 ✅ Pipeline completado en 40s — 15:00
 
+[main 70cc8ee] auto: datos 2026-03-20 15:10
+ 10 files changed, 179 insertions(+), 64 deletions(-)
+To https://github.com/mcasrom/iran-osint-monitor.git
+   5173b93..70cc8ee  main -> main
+
+✅ Pipeline completado en 38s — 15:30
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-20 15:30
+==================================================
+
+▶ collect_iran.py
+
+==================================================
+collect_iran.py — 2026-03-20 15:30
+==================================================
+
+📡 RSS directos:
+  ✅ Reuters: 0 artículos
+  ✅ BBC World: 26 artículos
+  ✅ Times of Israel: 13 artículos
+  ✅ France24: 24 artículos
+  ✅ AP News: 0 artículos
+  ✅ Press TV: 102 artículos
+  ✅ Al Mayadeen: 0 artículos
+  ✅ TASS: 100 artículos
+  ✅ Xinhua: 20 artículos
+  ✅ Al Jazeera: 25 artículos
+  ✅ Middle East Eye: 20 artículos
+  ✅ Arab News: 0 artículos
+
+🌐 GDELT:
+  ⚠️  GDELT: 
+
+📥 Total recolectados: 153
+📦 Total artículos en BD: 722
+
+✅ collect_iran.py completado
+
+
+▶ detect_narratives_iran.py
+
+==================================================
+detect_narratives_iran.py — 2026-03-20 15:30
+==================================================
+📰 Artículos: 722 | Bandos: {'pro_iran_eje': 300, 'pro_occidente': 222, 'neutros_regionales': 200}
+✅ 8 clusters detectados
+✅ Top keyword: war
+
+
+▶ detect_sentiment_iran.py
+
+==================================================
+detect_sentiment_iran.py — 2026-03-20 15:30
+==================================================
+📰 Analizando 722 artículos...
+✅ Sentimiento global:
+sentiment  count  avg_score
+ negativo    383  -0.996781
+  neutral    309   0.000000
+ positivo     30   0.988000
+
+🤖 Muestra Claude API (10 titulares):
+  ⚠️  Claude API: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CZEVXuSMzZitMj6tVB9nT'}
+
+
+▶ energy_tracker.py
+
+==================================================
+energy_tracker.py — 2026-03-20 15:30
+==================================================
+🔑 Alpha Vantage key encontrada
+✅ Brent último: 101.04 USD/barril
+✅ Ormuz: nivel=rojo | alertas=25
+
+
+✅ Pipeline completado en 38s — 15:30
+
