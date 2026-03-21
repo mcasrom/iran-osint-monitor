@@ -6697,3 +6697,7 @@ energy_tracker.py — 2026-03-21 08:31
 
 ✅ Pipeline completado en 111s — 08:31
 
+[main 71ff6b7] auto: datos 2026-03-21 08:40
+ 10 files changed, 134 insertions(+), 53 deletions(-)
+To https://github.com/mcasrom/iran-osint-monitor.git
+   2d7f39a..71ff6b7  main -> main
