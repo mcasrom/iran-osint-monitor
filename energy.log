@@ -5,3 +5,10 @@ energy_tracker.py — 2026-03-21 09:00
 🔑 Alpha Vantage key encontrada
 ❌ Sin datos energéticos
 ✅ Ormuz: nivel=rojo | alertas=33
+
+==================================================
+energy_tracker.py — 2026-03-21 21:00
+==================================================
+🔑 Consultando Alpha Vantage...
+✅ Datos actualizados. Brent actual: 70.01 USD
+✅ Ormuz: nivel=rojo | alertas=40
