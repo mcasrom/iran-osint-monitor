@@ -21,20 +21,24 @@ def get_av_key():
 
 def fetch_brent_alphavantage(key):
     url = f"https://www.alphavantage.co/query?function=BRENT&interval=daily&apikey={key}"
-    r = requests.get(url, timeout=10)
-    data = r.json()
-    if "data" in data:
-        df = pd.DataFrame(data["data"])
-        df.columns = ["date","price"]
-        df["price"] = pd.to_numeric(df["price"], errors="coerce")
-        df["commodity"] = "Brent"
-        return df.head(30)
+    try:
+        r = requests.get(url, timeout=10)
+        data = r.json()
+        if "data" in data:
+            df = pd.DataFrame(data["data"])
+            df.columns = ["date","price"]
+            df["price"] = pd.to_numeric(df["price"], errors="coerce")
+            df["commodity"] = "Brent"
+            return df.head(30)
+    except:
+        pass
     return pd.DataFrame()
 
 def fetch_brent_fallback():
     """Fallback sin API key — Yahoo Finance via yfinance o precio estático"""
     try:
         import yfinance as yf
+        # BZ=F es el ticker para Brent Crude Last Day Financial
         brent = yf.download("BZ=F", period="30d", progress=False)
         if not brent.empty:
             df = brent[["Close"]].reset_index()
@@ -44,7 +48,6 @@ def fetch_brent_fallback():
             return df
     except:
         pass
-    # Último precio conocido (hardcoded como fallback final)
     print("  ⚠️  Usando precio Brent estático (sin API)")
     return pd.DataFrame([{
         "date": str(datetime.now().date()),
@@ -72,6 +75,7 @@ def ormuz_status():
     news_path = os.path.join(DATA_DIR, "iran_news.csv")
     if not os.path.exists(news_path):
         return {"status": "desconocido", "alertas": 0, "nivel": "verde"}
+    
     df = pd.read_csv(news_path)
     keywords = ["ormuz","strait","shipping","tanker","blockade","closure"]
     mask = df["title"].str.lower().apply(
@@ -80,35 +84,47 @@ def ormuz_status():
     alertas = int(mask.sum())
     nivel = "rojo" if alertas > 10 else "naranja" if alertas > 4 else "verde"
     titulares = df[mask]["title"].head(3).tolist()
-    return {"status": "monitorizando", "alertas": alertas,
-            "nivel": nivel, "titulares": titulares,
-            "updated": str(datetime.now())}
+    return {
+        "status": "monitorizando", 
+        "alertas": alertas,
+        "nivel": nivel, 
+        "titulares": titulares,
+        "updated": str(datetime.now())
+    }
 
 if __name__ == "__main__":
     print(f"\n{'='*50}")
     print(f"energy_tracker.py — {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print(f"{'='*50}")
+    
     key = get_av_key()
-    frames = []
+    df_brent = pd.DataFrame()
+    df_gas = pd.DataFrame()
+
     if key and key != "TU_KEY_AQUI":
-        print("🔑 Alpha Vantage key encontrada")
+        print("🔑 Intentando Alpha Vantage...")
         df_brent = fetch_brent_alphavantage(key)
-        df_gas   = fetch_natural_gas(key)
-        if not df_brent.empty: frames.append(df_brent)
-        if not df_gas.empty:   frames.append(df_gas)
-    else:
-        print("⚠️  Sin Alpha Vantage key — usando fallback")
+        df_gas = fetch_natural_gas(key)
+
+    # Si AV falló o no hay key, vamos al fallback (Yahoo Finance)
+    if df_brent.empty:
+        print("⚠️ Alpha Vantage falló o sin cupo — Usando Fallback (Yahoo/Estático)")
         df_brent = fetch_brent_fallback()
-        if not df_brent.empty: frames.append(df_brent)
+
+    frames = [f for f in [df_brent, df_gas] if not f.empty]
 
     if frames:
         df_energy = pd.concat(frames, ignore_index=True)
+        os.makedirs(DATA_DIR, exist_ok=True)
         df_energy.to_csv(os.path.join(DATA_DIR, "iran_energy.csv"), index=False)
-        latest = df_energy[df_energy["commodity"]=="Brent"]["price"].iloc[0] if len(df_energy) else "N/A"
-        print(f"✅ Brent último: {latest} USD/barril")
+        
+        brent_val = df_brent["price"].iloc[0] if not df_brent.empty else "N/A"
+        print(f"✅ Datos guardados. Brent: {brent_val} USD")
     else:
-        print("❌ Sin datos energéticos")
+        print("❌ Error crítico: No se pudieron obtener datos de ninguna fuente.")
 
+    # Estado de Ormuz
     ormuz = ormuz_status()
-    json.dump(ormuz, open(os.path.join(DATA_DIR, "iran_ormuz.json"), "w"), ensure_ascii=False)
+    with open(os.path.join(DATA_DIR, "iran_ormuz.json"), "w", encoding="utf-8") as f:
+        json.dump(ormuz, f, ensure_ascii=False, indent=4)
     print(f"✅ Ormuz: nivel={ormuz['nivel']} | alertas={ormuz['alertas']}")
