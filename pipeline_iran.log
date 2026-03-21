@@ -6229,3 +6229,81 @@ energy_tracker.py — 2026-03-21 05:30
 
 ✅ Pipeline completado en 40s — 05:30
 
+[main cbcc775] auto: datos 2026-03-21 05:40
+ 10 files changed, 137 insertions(+), 55 deletions(-)
+To https://github.com/mcasrom/iran-osint-monitor.git
+   3b14c89..cbcc775  main -> main
+
+✅ Pipeline completado en 170s — 06:02
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-21 06:00
+==================================================
+
+▶ collect_iran.py
+
+==================================================
+collect_iran.py — 2026-03-21 06:00
+==================================================
+
+📡 RSS directos:
+  ✅ Reuters: 0 artículos
+  ✅ BBC World: 30 artículos
+  ✅ Times of Israel: 15 artículos
+  ✅ France24: 24 artículos
+  ✅ AP News: 0 artículos
+  ✅ Press TV: 102 artículos
+  ✅ Al Mayadeen: 0 artículos
+  ✅ TASS: 100 artículos
+  ✅ Xinhua: 20 artículos
+  ✅ Al Jazeera: 25 artículos
+  ✅ Middle East Eye: 20 artículos
+  ✅ Arab News: 0 artículos
+
+🌐 GDELT:
+  ⚠️  GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22Iran%20OR%20Islamic%20Republic%20OR%20IRGC%20OR%20Khamenei%20OR%20nuclear%22%20&startdatetime=20260321000000&enddatetime=20260321000000&maxrecords=250&mode=artlist&format=json (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0xffff690dd400>, 'Connection to api.gdeltproject.org timed out. (connect timeout=None)'))
+
+📥 Total recolectados: 155
+📦 Total artículos en BD: 939
+
+✅ collect_iran.py completado
+
+
+▶ detect_narratives_iran.py
+
+==================================================
+detect_narratives_iran.py — 2026-03-21 06:02
+==================================================
+📰 Artículos: 939 | Bandos: {'pro_iran_eje': 365, 'pro_occidente': 288, 'neutros_regionales': 286}
+✅ 8 clusters detectados
+✅ Top keyword: as
+
+
+▶ detect_sentiment_iran.py
+
+==================================================
+detect_sentiment_iran.py — 2026-03-21 06:02
+==================================================
+📰 Analizando 939 artículos...
+✅ Sentimiento global:
+sentiment  count  avg_score
+ negativo    492  -0.996673
+  neutral    411   0.000000
+ positivo     36   0.989861
+
+🤖 Muestra Claude API (10 titulares):
+  ⚠️  Claude API: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CZFe3cVQnUuA73j1VsnDq'}
+
+
+▶ energy_tracker.py
+
+==================================================
+energy_tracker.py — 2026-03-21 06:02
+==================================================
+🔑 Alpha Vantage key encontrada
+❌ Sin datos energéticos
+✅ Ormuz: nivel=rojo | alertas=31
+
+
+✅ Pipeline completado en 170s — 06:02
+
