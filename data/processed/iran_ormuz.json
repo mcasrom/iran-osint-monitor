@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 55,
+    "alertas": 54,
     "nivel": "rojo",
     "titulares": [
-        "US says may ‘unsanction’ Iran as IRGC regulates Hormuz traffic",
         "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
-        "Israeli PM proposes replacing Strait of Hormuz with pipelines through Israel"
+        "Israeli PM proposes replacing Strait of Hormuz with pipelines through Israel",
+        "Britain joins US planning amid push to reopen Hormuz"
     ],
-    "updated": "2026-03-22 19:30:53.735635"
+    "updated": "2026-03-22 20:00:57.863706"
 }
