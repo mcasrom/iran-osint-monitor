@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 55,
+    "alertas": 54,
     "nivel": "rojo",
     "titulares": [
-        "European nations, Japan to join ‘appropriate efforts’ to open Hormuz Strait",
         "US says may ‘unsanction’ Iran as IRGC regulates Hormuz traffic",
-        "Nearly 100 ships pass the Hormuz Strait - who is getting through?"
+        "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
+        "Israeli PM proposes replacing Strait of Hormuz with pipelines through Israel"
     ],
-    "updated": "2026-03-22 18:00:50.424439"
+    "updated": "2026-03-22 18:30:50.437242"
 }
