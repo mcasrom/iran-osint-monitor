@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 58,
+    "alertas": 60,
     "nivel": "rojo",
     "titulares": [
-        "Report: Iran developing vetting system for selective Hormuz transit access",
         "US bombs Iranian mine-laying vessels to disrupt Strait of Hormuz blockade",
-        "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report"
+        "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
+        "Trump considers Kharg Island takeover to force Iran to reopen Hormuz"
     ],
-    "updated": "2026-03-23 09:00:54.369130"
+    "updated": "2026-03-23 09:30:53.895254"
 }
