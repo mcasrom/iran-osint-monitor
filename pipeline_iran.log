@@ -15173,3 +15173,85 @@ $BRN=F: possibly delisted; no price data found  (period=30d) (Yahoo erro
 
 ✅ Pipeline completado en 46s — 12:30
 
+[main 8e8f91e] auto: datos 2026-03-23 12:40
+ 10 files changed, 177 insertions(+), 96 deletions(-)
+To https://github.com/mcasrom/iran-osint-monitor.git
+   6aea921..8e8f91e  main -> main
+
+✅ Pipeline completado en 60s — 13:01
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-23 13:00
+==================================================
+
+▶ collect_iran.py
+
+==================================================
+collect_iran.py — 2026-03-23 13:00
+==================================================
+
+📡 RSS directos:
+  ✅ Reuters: 0 artículos
+  ✅ BBC World: 29 artículos
+  ✅ Times of Israel: 13 artículos
+  ✅ France24: 24 artículos
+  ✅ AP News: 0 artículos
+  ✅ Press TV: 102 artículos
+  ✅ Al Mayadeen: 0 artículos
+  ✅ TASS: 82 artículos
+  ✅ Xinhua: 20 artículos
+  ✅ Al Jazeera: 25 artículos
+  ✅ Middle East Eye: 20 artículos
+  ✅ Arab News: 0 artículos
+
+🌐 GDELT:
+  ⚠️  GDELT: 
+
+📥 Total recolectados: 153
+📦 Total artículos en BD: 1112
+
+✅ collect_iran.py completado
+
+
+▶ detect_narratives_iran.py
+
+==================================================
+detect_narratives_iran.py — 2026-03-23 13:00
+==================================================
+📰 Artículos: 1112 | Bandos: {'pro_iran_eje': 381, 'neutros_regionales': 378, 'pro_occidente': 353}
+✅ 8 clusters detectados
+✅ Top keyword: as
+
+
+▶ detect_sentiment_iran.py
+
+==================================================
+detect_sentiment_iran.py — 2026-03-23 13:00
+==================================================
+📰 Analizando 1112 artículos...
+✅ Sentimiento global:
+sentiment  count  avg_score
+ negativo    610  -0.996338
+  neutral    471   0.000000
+ positivo     31   0.999097
+
+🤖 Muestra Claude API (10 titulares):
+  ⚠️  Claude API: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CZKyYfcxsGihgMvrY5NtC'}
+
+
+▶ energy_tracker.py
+
+==================================================
+energy_tracker.py — 2026-03-23 13:00
+==================================================
+🔑 Consultando Alpha Vantage...
+🔄 Alpha Vantage sin datos. Saltando a Yahoo Finance...
+  ⚠️ Usando precio de referencia OSINT (Fallback Crítico)
+✅ Datos actualizados. Brent actual: 107.80 USD
+✅ Ormuz: nivel=rojo | alertas=61
+
+STDERR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: BRN=F"}}}
+$BRN=F: possibly delisted; no price data found  (period=30d) (Yahoo erro
+
+✅ Pipeline completado en 60s — 13:01
+
