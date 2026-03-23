@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 60,
+    "alertas": 59,
     "nivel": "rojo",
     "titulares": [
-        "French Navy detains Mozambique-flagged Denya tanker en route from Russia",
-        "Hungary has several aces in hole to force Ukraine to lift oil blockade — Orban",
-        "Russian embassy in France says was not notified about tanker detention"
+        "Russian embassy in France says was not notified about tanker detention",
+        "Despite decapitation, Iran’s regime endures: Does Hormuz blockade give Tehran the upper hand?",
+        "Cops forcefully clear Eid prayers outside Jerusalem’s Old City amid Iran war closure"
     ],
-    "updated": "2026-03-23 14:30:45.778629"
+    "updated": "2026-03-23 15:00:52.920991"
 }
