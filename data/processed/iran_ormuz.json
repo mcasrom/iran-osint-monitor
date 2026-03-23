@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 53,
+    "alertas": 54,
     "nivel": "rojo",
     "titulares": [
-        "Europe, Japan, Canada pledge efforts to reopen Hormuz",
         "Report: Iran developing vetting system for selective Hormuz transit access",
-        "US bombs Iranian mine-laying vessels to disrupt Strait of Hormuz blockade"
+        "US bombs Iranian mine-laying vessels to disrupt Strait of Hormuz blockade",
+        "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report"
     ],
-    "updated": "2026-03-23 04:30:53.067068"
+    "updated": "2026-03-23 05:00:52.676243"
 }
