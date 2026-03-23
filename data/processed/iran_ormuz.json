@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 59,
+    "alertas": 60,
     "nivel": "rojo",
     "titulares": [
-        "Russian embassy in France says was not notified about tanker detention",
         "Despite decapitation, Iran’s regime endures: Does Hormuz blockade give Tehran the upper hand?",
-        "Cops forcefully clear Eid prayers outside Jerusalem’s Old City amid Iran war closure"
+        "Cops forcefully clear Eid prayers outside Jerusalem’s Old City amid Iran war closure",
+        "Iraq declares force majeure on foreign-operated oil fields over Hormuz disruption, sources say"
     ],
-    "updated": "2026-03-23 15:00:52.920991"
+    "updated": "2026-03-23 15:30:47.820322"
 }
