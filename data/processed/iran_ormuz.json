@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 60,
+    "alertas": 59,
     "nivel": "rojo",
     "titulares": [
-        "French navy seizes oil tanker sailing from Russia accused of flying false flag in Mediterranean",
         "French Navy detains Mozambique-flagged Denya tanker en route from Russia",
-        "Hungary has several aces in hole to force Ukraine to lift oil blockade — Orban"
+        "Hungary has several aces in hole to force Ukraine to lift oil blockade — Orban",
+        "Russian embassy in France says was not notified about tanker detention"
     ],
-    "updated": "2026-03-23 13:30:47.390735"
+    "updated": "2026-03-23 14:00:55.359926"
 }
