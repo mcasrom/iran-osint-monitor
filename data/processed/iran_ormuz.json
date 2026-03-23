@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 60,
+    "alertas": 61,
     "nivel": "rojo",
     "titulares": [
         "Cops forcefully clear Eid prayers outside Jerusalem’s Old City amid Iran war closure",
         "Iraq declares force majeure on foreign-operated oil fields over Hormuz disruption, sources say",
         "UK okays US use of its bases to strike Iranian threats to shipping in Strait of Hormuz"
     ],
-    "updated": "2026-03-23 17:00:46.494888"
+    "updated": "2026-03-23 17:30:47.749616"
 }
