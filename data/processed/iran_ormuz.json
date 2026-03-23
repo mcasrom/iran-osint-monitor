@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 60,
+    "alertas": 61,
     "nivel": "rojo",
     "titulares": [
         "Despite decapitation, Iran’s regime endures: Does Hormuz blockade give Tehran the upper hand?",
         "Cops forcefully clear Eid prayers outside Jerusalem’s Old City amid Iran war closure",
         "Iraq declares force majeure on foreign-operated oil fields over Hormuz disruption, sources say"
     ],
-    "updated": "2026-03-23 16:00:46.275826"
+    "updated": "2026-03-23 16:30:46.564600"
 }
