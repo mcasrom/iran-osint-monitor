@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 55,
+    "alertas": 53,
     "nivel": "rojo",
     "titulares": [
-        "Israeli PM proposes replacing Strait of Hormuz with pipelines through Israel",
-        "Britain joins US planning amid push to reopen Hormuz",
-        "Report: US launches air campaign to reopen Strait of Hormuz"
+        "Europe, Japan, Canada pledge efforts to reopen Hormuz",
+        "Report: Iran developing vetting system for selective Hormuz transit access",
+        "US bombs Iranian mine-laying vessels to disrupt Strait of Hormuz blockade"
     ],
-    "updated": "2026-03-23 02:00:51.692726"
+    "updated": "2026-03-23 02:30:48.550219"
 }
