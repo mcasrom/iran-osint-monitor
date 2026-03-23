@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 60,
+    "alertas": 59,
     "nivel": "rojo",
     "titulares": [
-        "US bombs Iranian mine-laying vessels to disrupt Strait of Hormuz blockade",
         "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
-        "Trump considers Kharg Island takeover to force Iran to reopen Hormuz"
+        "Trump considers Kharg Island takeover to force Iran to reopen Hormuz",
+        "Iran does not need to close the Strait of Hormuz to disrupt it"
     ],
-    "updated": "2026-03-23 09:30:53.895254"
+    "updated": "2026-03-23 10:00:47.834323"
 }
