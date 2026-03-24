@@ -19296,3 +19296,81 @@ $BRN=F: possibly delisted; no price data found  (period=30d) (Yahoo erro
 
 ✅ Pipeline completado en 53s — 14:00
 
+[main 8988952] auto: datos 2026-03-24 14:10
+ 10 files changed, 164 insertions(+), 66 deletions(-)
+To https://github.com/mcasrom/iran-osint-monitor.git
+   bd659ab..8988952  main -> main
+
+✅ Pipeline completado en 47s — 14:30
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-24 14:30
+==================================================
+
+▶ collect_iran.py
+
+==================================================
+collect_iran.py — 2026-03-24 14:30
+==================================================
+
+📡 RSS directos:
+  ✅ Reuters: 0 artículos
+  ✅ BBC World: 40 artículos
+  ✅ Times of Israel: 14 artículos
+  ✅ France24: 24 artículos
+  ✅ AP News: 0 artículos
+  ✅ Press TV: 102 artículos
+  ✅ Al Mayadeen: 0 artículos
+  ✅ TASS: 100 artículos
+  ✅ Xinhua: 20 artículos
+  ✅ Al Jazeera: 25 artículos
+  ✅ Middle East Eye: 20 artículos
+  ✅ Arab News: 0 artículos
+
+🌐 GDELT:
+  ⚠️  GDELT: The query was not valid. The API error message was: Invalid query end date.
+
+📥 Total recolectados: 154
+📦 Total artículos en BD: 1262
+
+✅ collect_iran.py completado
+
+
+▶ detect_narratives_iran.py
+
+==================================================
+detect_narratives_iran.py — 2026-03-24 14:30
+==================================================
+📰 Artículos: 1262 | Bandos: {'neutros_regionales': 455, 'pro_occidente': 405, 'pro_iran_eje': 402}
+✅ 8 clusters detectados
+✅ Top keyword: live
+
+
+▶ detect_sentiment_iran.py
+
+==================================================
+detect_sentiment_iran.py — 2026-03-24 14:30
+==================================================
+📰 Analizando 1262 artículos...
+✅ Sentimiento global:
+sentiment  count  avg_score
+ negativo    698  -0.992638
+  neutral    511   0.000000
+ positivo     53   0.961396
+
+🤖 Muestra Claude API (10 titulares):
+  ⚠️  Claude API: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CZMzCfZJviEJVnc3sbshz'}
+
+
+▶ energy_tracker.py
+
+==================================================
+energy_tracker.py — 2026-03-24 14:30
+==================================================
+🔑 Consultando Alpha Vantage...
+✅ Datos actualizados. Brent actual: 70.01 USD
+✅ Ormuz: nivel=rojo | alertas=58
+
+
+✅ Pipeline completado en 47s — 14:30
+
