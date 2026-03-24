@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 62,
+    "alertas": 61,
     "nivel": "rojo",
     "titulares": [
-        "Ship disguised as broken vessel passed through Strait of Hormuz — agency",
         "Iran has not closed Strait of Hormuz, imposed restrictions on vessels linked to aggressors: FM",
-        "Iran says it will allow Japanese ships to transit the Strait of Hormuz"
+        "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
+        "At least 3 dead, 4 injured in collision between fuel tanker, 4 cars in Russia"
     ],
-    "updated": "2026-03-24 08:30:51.206223"
+    "updated": "2026-03-24 09:00:50.305522"
 }
