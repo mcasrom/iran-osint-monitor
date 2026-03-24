@@ -68,3 +68,10 @@ energy_tracker.py — 2026-03-24 09:00
   ⚠️ Usando precio de referencia OSINT (Fallback Crítico)
 ✅ Datos actualizados. Brent actual: 107.80 USD
 ✅ Ormuz: nivel=rojo | alertas=62
+
+==================================================
+energy_tracker.py — 2026-03-24 21:00
+==================================================
+🔑 Consultando Alpha Vantage...
+✅ Datos actualizados. Brent actual: 70.01 USD
+✅ Ormuz: nivel=rojo | alertas=62
