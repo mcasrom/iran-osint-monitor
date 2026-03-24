@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 61,
+    "alertas": 60,
     "nivel": "rojo",
     "titulares": [
-        "Iran has not closed Strait of Hormuz, imposed restrictions on vessels linked to aggressors: FM",
-        "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
-        "At least 3 dead, 4 injured in collision between fuel tanker, 4 cars in Russia"
+        "At least 3 dead, 4 injured in collision between fuel tanker, 4 cars in Russia",
+        "Four injured in fuel tanker accident in Russia’s Rostov Region hospitalized",
+        "US army: Iranian threat to Hormuz 'degraded'"
     ],
-    "updated": "2026-03-24 09:00:50.305522"
+    "updated": "2026-03-24 09:30:48.640790"
 }
