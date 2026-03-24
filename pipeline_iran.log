@@ -20803,3 +20803,85 @@ STDERR: Failed to get ticker 'BRN=F' reason: Failed to perform, curl: (6) Could 
 
 ✅ Pipeline completado en 33s — 23:30
 
+[main fe5cb51] auto: datos 2026-03-24 23:40
+ 10 files changed, 138 insertions(+), 60 deletions(-)
+fatal: unable to access 'https://github.com/mcasrom/iran-osint-monitor.git/': Could not resolve host: github.com
+
+✅ Pipeline completado en 38s — 00:00
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-25 00:00
+==================================================
+
+▶ collect_iran.py
+
+==================================================
+collect_iran.py — 2026-03-25 00:00
+==================================================
+
+📡 RSS directos:
+  ✅ Reuters: 0 artículos
+  ✅ BBC World: 0 artículos
+  ✅ Times of Israel: 0 artículos
+  ✅ France24: 0 artículos
+  ✅ AP News: 0 artículos
+  ✅ Press TV: 0 artículos
+  ✅ Al Mayadeen: 0 artículos
+  ✅ TASS: 0 artículos
+  ✅ Xinhua: 0 artículos
+  ✅ Al Jazeera: 0 artículos
+  ✅ Middle East Eye: 0 artículos
+  ✅ Arab News: 0 artículos
+
+🌐 GDELT:
+  ⚠️  GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22Iran%20OR%20Islamic%20Republic%20OR%20IRGC%20OR%20Khamenei%20OR%20nuclear%22%20&startdatetime=20260324000000&enddatetime=20260325000000&maxrecords=250&mode=artlist&format=json (Caused by NameResolutionError("HTTPSConnection(host='api.gdeltproject.org', port=443): Failed to resolve 'api.gdeltproject.org' ([Errno -3] Temporary failure in name resolution)"))
+
+📥 Total recolectados: 0
+📦 Total artículos en BD: 1334
+
+✅ collect_iran.py completado
+
+
+▶ detect_narratives_iran.py
+
+==================================================
+detect_narratives_iran.py — 2026-03-25 00:00
+==================================================
+📰 Artículos: 1334 | Bandos: {'neutros_regionales': 459, 'pro_iran_eje': 445, 'pro_occidente': 430}
+✅ 8 clusters detectados
+✅ Top keyword: as
+
+
+▶ detect_sentiment_iran.py
+
+==================================================
+detect_sentiment_iran.py — 2026-03-25 00:00
+==================================================
+📰 Analizando 1334 artículos...
+✅ Sentimiento global:
+sentiment  count  avg_score
+ negativo    711  -0.992264
+  neutral    559   0.000000
+ positivo     64   0.956453
+
+🤖 Muestra Claude API (10 titulares):
+  ⚠️  Claude API: Connection error.
+
+
+▶ energy_tracker.py
+
+==================================================
+energy_tracker.py — 2026-03-25 00:00
+==================================================
+🔑 Consultando Alpha Vantage...
+🔄 Alpha Vantage sin datos. Saltando a Yahoo Finance...
+  ⚠️ Usando precio de referencia OSINT (Fallback Crítico)
+✅ Datos actualizados. Brent actual: 107.80 USD
+✅ Ormuz: nivel=rojo | alertas=61
+
+STDERR: Failed to get ticker 'BRN=F' reason: Failed to perform, curl: (6) Could not resolve host: query1.finance.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+1 Failed 
+
+✅ Pipeline completado en 38s — 00:00
+
