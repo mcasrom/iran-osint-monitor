@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 64,
+    "alertas": 62,
     "nivel": "rojo",
     "titulares": [
-        "UN could help resolve shipping issue in Strait of Hormuz — Secretary-General",
-        "Iran ready to allow Japanese ships to pass through Strait of Hormuz — foreign minister",
-        "Ship disguised as broken vessel passed through Strait of Hormuz — agency"
+        "Ship disguised as broken vessel passed through Strait of Hormuz — agency",
+        "Iran has not closed Strait of Hormuz, imposed restrictions on vessels linked to aggressors: FM",
+        "Iran says it will allow Japanese ships to transit the Strait of Hormuz"
     ],
-    "updated": "2026-03-24 06:30:49.632063"
+    "updated": "2026-03-24 07:00:51.983213"
 }
