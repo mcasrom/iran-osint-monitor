@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 63,
+    "alertas": 62,
     "nivel": "rojo",
     "titulares": [
-        "Iran has no tankers at sea, no surplus of oil to export — ministry",
         "Trump signals possible wind-down of aggression against Iran despite unresolved Hormuz crisis",
-        "UN could help resolve shipping issue in Strait of Hormuz — Secretary-General"
+        "UN could help resolve shipping issue in Strait of Hormuz — Secretary-General",
+        "Iran ready to allow Japanese ships to pass through Strait of Hormuz — foreign minister"
     ],
-    "updated": "2026-03-24 01:00:48.814272"
+    "updated": "2026-03-24 01:30:49.492864"
 }
