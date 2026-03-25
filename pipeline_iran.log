@@ -21457,3 +21457,30 @@ STDERR: Failed to get ticker 'BRN=F' reason: Failed to perform, curl: (6) Could 
 
 ✅ Pipeline completado en 21s — 04:00
 
+[main c00d57b] auto: datos 2026-03-25 04:10
+ 1 file changed, 27 insertions(+)
+fatal: unable to access 'https://github.com/mcasrom/iran-osint-monitor.git/': Could not resolve host: github.com
+
+✅ Pipeline completado en 19s — 04:30
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-25 04:30
+==================================================
+
+▶ collect_iran.py
+⚠️  collect_iran.py terminó con código -11
+
+▶ detect_narratives_iran.py
+⚠️  detect_narratives_iran.py terminó con código -11
+
+▶ detect_sentiment_iran.py
+⚠️  detect_sentiment_iran.py terminó con código -11
+
+▶ energy_tracker.py
+STDERR: Failed to get ticker 'BRN=F' reason: Failed to perform, curl: (6) Could not resolve host: query1.finance.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+1 Failed 
+⚠️  energy_tracker.py terminó con código -11
+
+✅ Pipeline completado en 19s — 04:30
+
