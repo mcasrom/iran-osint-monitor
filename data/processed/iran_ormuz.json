@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 59,
+    "alertas": 57,
     "nivel": "rojo",
     "titulares": [
-        "Explosion reported near tanker off UAE's Sharjah coast",
-        "Trump: Will ‘obliterate’ Iran’s power plants if Hormuz not opened in 48 hours",
-        "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants"
+        "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants",
+        "Japan allows use of troops for potential mine clearance in Hormuz Strait",
+        "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open"
     ],
-    "updated": "2026-03-25 02:00:35.591896"
+    "updated": "2026-03-25 02:30:33.854739"
 }
