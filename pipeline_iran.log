@@ -22025,3 +22025,28 @@ $BRN=F: possibly delisted; no price data found  (period=30d) (Yahoo erro
 
 ✅ Pipeline completado en 45s — 14:30
 
+[main 15b3eed] auto: datos 2026-03-25 14:40
+ 1 file changed, 27 insertions(+)
+To https://github.com/mcasrom/iran-osint-monitor.git
+   6404e74..15b3eed  main -> main
+
+✅ Pipeline completado en 38s — 15:00
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-25 15:00
+==================================================
+
+▶ collect_iran.py
+⚠️  collect_iran.py terminó con código -11
+
+▶ detect_narratives_iran.py
+⚠️  detect_narratives_iran.py terminó con código -11
+
+▶ detect_sentiment_iran.py
+⚠️  detect_sentiment_iran.py terminó con código -11
+
+▶ energy_tracker.py
+⚠️  energy_tracker.py terminó con código -11
+
+✅ Pipeline completado en 38s — 15:00
+
