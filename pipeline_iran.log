@@ -21646,3 +21646,29 @@ STDERR: Failed to get ticker 'BRN=F' reason: Failed to perform, curl: (6) Could 
 
 ✅ Pipeline completado en 20s — 07:30
 
+[main 58f2d08] auto: datos 2026-03-25 07:40
+ 1 file changed, 27 insertions(+)
+fatal: unable to access 'https://github.com/mcasrom/iran-osint-monitor.git/': Could not resolve host: github.com
+
+✅ Pipeline completado en 130s — 08:02
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-25 08:00
+==================================================
+
+▶ collect_iran.py
+⚠️  collect_iran.py terminó con código -11
+
+▶ detect_narratives_iran.py
+⚠️  detect_narratives_iran.py terminó con código -11
+
+▶ detect_sentiment_iran.py
+⚠️  detect_sentiment_iran.py terminó con código -11
+
+▶ energy_tracker.py
+STDERR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: BRN=F"}}}
+$BRN=F: possibly delisted; no price data found  (period=30d) (Yahoo erro
+⚠️  energy_tracker.py terminó con código -11
+
+✅ Pipeline completado en 130s — 08:02
+
