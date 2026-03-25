@@ -21377,3 +21377,56 @@ STDERR: Failed to get ticker 'BRN=F' reason: Failed to perform, curl: (6) Could 
 
 ✅ Pipeline completado en 33s — 03:00
 
+[main ac57473] auto: datos 2026-03-25 03:10
+ 10 files changed, 141 insertions(+), 87 deletions(-)
+fatal: unable to access 'https://github.com/mcasrom/iran-osint-monitor.git/': Could not resolve host: github.com
+
+✅ Pipeline completado en 28s — 03:30
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-25 03:30
+==================================================
+
+▶ collect_iran.py
+
+==================================================
+collect_iran.py — 2026-03-25 03:30
+==================================================
+
+📡 RSS directos:
+  ✅ Reuters: 0 artículos
+  ✅ BBC World: 0 artículos
+  ✅ Times of Israel: 0 artículos
+  ✅ France24: 0 artículos
+  ✅ AP News: 0 artículos
+  ✅ Press TV: 0 artículos
+  ✅ Al Mayadeen: 0 artículos
+  ✅ TASS: 0 artículos
+  ✅ Xinhua: 0 artículos
+  ✅ Al Jazeera: 0 artículos
+  ✅ Middle East Eye: 0 artículos
+  ✅ Arab News: 0 artículos
+
+🌐 GDELT:
+  ⚠️  GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22Iran%20OR%20Islamic%20Republic%20OR%20IRGC%20OR%20Khamenei%20OR%20nuclear%22%20&startdatetime=20260325000000&enddatetime=20260325000000&maxrecords=250&mode=artlist&format=json (Caused by NameResolutionError("HTTPSConnection(host='api.gdeltproject.org', port=443): Failed to resolve 'api.gdeltproject.org' ([Errno -3] Temporary failure in name resolution)"))
+
+📥 Total recolectados: 0
+📦 Total artículos en BD: 1299
+
+✅ collect_iran.py completado
+
+
+▶ detect_narratives_iran.py
+⚠️  detect_narratives_iran.py terminó con código -11
+
+▶ detect_sentiment_iran.py
+⚠️  detect_sentiment_iran.py terminó con código -11
+
+▶ energy_tracker.py
+STDERR: Failed to get ticker 'BRN=F' reason: Failed to perform, curl: (6) Could not resolve host: query1.finance.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+1 Failed 
+⚠️  energy_tracker.py terminó con código -11
+
+✅ Pipeline completado en 28s — 03:30
+
