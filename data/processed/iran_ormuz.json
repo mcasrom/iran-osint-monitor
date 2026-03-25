@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 57,
+    "alertas": 56,
     "nivel": "rojo",
     "titulares": [
-        "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants",
         "Japan allows use of troops for potential mine clearance in Hormuz Strait",
-        "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open"
+        "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open",
+        "Japan may deploy minesweepers in Hormuz if ceasefire reached"
     ],
-    "updated": "2026-03-25 02:30:33.854739"
+    "updated": "2026-03-25 03:00:34.893106"
 }
