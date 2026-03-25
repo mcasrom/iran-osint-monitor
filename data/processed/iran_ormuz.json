@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 60,
+    "alertas": 59,
     "nivel": "rojo",
     "titulares": [
-        "Iran war live: Trump threatens to attack power plants over Strait of Hormuz",
         "Explosion reported near tanker off UAE's Sharjah coast",
-        "Trump: Will ‘obliterate’ Iran’s power plants if Hormuz not opened in 48 hours"
+        "Trump: Will ‘obliterate’ Iran’s power plants if Hormuz not opened in 48 hours",
+        "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants"
     ],
-    "updated": "2026-03-25 01:30:33.769362"
+    "updated": "2026-03-25 02:00:35.591896"
 }
