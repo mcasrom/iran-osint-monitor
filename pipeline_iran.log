@@ -23770,3 +23770,30 @@ $BRN=F: possibly delisted; no price data found  (period=30d) (Yahoo erro
 
 ✅ Pipeline completado en 39s — 00:00
 
+[main 9adf071] auto: datos 2026-03-27 00:10
+ 2 files changed, 28 insertions(+), 1 deletion(-)
+To https://github.com/mcasrom/iran-osint-monitor.git
+   ec6566c..9adf071  main -> main
+
+✅ Pipeline completado en 33s — 00:30
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-27 00:30
+==================================================
+
+▶ collect_iran.py
+⚠️  collect_iran.py terminó con código -11
+
+▶ detect_narratives_iran.py
+⚠️  detect_narratives_iran.py terminó con código -11
+
+▶ detect_sentiment_iran.py
+⚠️  detect_sentiment_iran.py terminó con código -11
+
+▶ energy_tracker.py
+STDERR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: BRN=F"}}}
+$BRN=F: possibly delisted; no price data found  (period=30d) (Yahoo erro
+⚠️  energy_tracker.py terminó con código -11
+
+✅ Pipeline completado en 33s — 00:30
+
