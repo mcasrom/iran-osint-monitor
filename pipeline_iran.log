@@ -24932,3 +24932,30 @@ IRAN OSINT PIPELINE — 2026-03-27 22:00
 
 ✅ Pipeline completado en 35s — 22:00
 
+[main 8987c8c] auto: datos 2026-03-27 22:10
+ 2 files changed, 25 insertions(+), 30 deletions(-)
+To https://github.com/mcasrom/iran-osint-monitor.git
+   ab52ee2..8987c8c  main -> main
+
+✅ Pipeline completado en 32s — 22:30
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-27 22:30
+==================================================
+
+▶ collect_iran.py
+⚠️  collect_iran.py terminó con código -11
+
+▶ detect_narratives_iran.py
+⚠️  detect_narratives_iran.py terminó con código -11
+
+▶ detect_sentiment_iran.py
+⚠️  detect_sentiment_iran.py terminó con código -11
+
+▶ energy_tracker.py
+STDERR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: BRN=F"}}}
+$BRN=F: possibly delisted; no price data found  (period=30d) (Yahoo erro
+⚠️  energy_tracker.py terminó con código -11
+
+✅ Pipeline completado en 32s — 22:30
+
