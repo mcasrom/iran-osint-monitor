@@ -25638,3 +25638,30 @@ STDERR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Foun
 
 ✅ Pipeline completado en 54s — 11:00
 
+[main 2f30c4d] auto: datos 2026-03-28 11:10
+ 1 file changed, 29 insertions(+)
+To https://github.com/mcasrom/iran-osint-monitor.git
+   ef03b8d..2f30c4d  main -> main
+
+✅ Pipeline completado en 31s — 11:30
+
+==================================================
+IRAN OSINT PIPELINE — 2026-03-28 11:30
+==================================================
+
+▶ collect_iran.py
+⚠️  collect_iran.py terminó con código -11
+
+▶ detect_narratives_iran.py
+⚠️  detect_narratives_iran.py terminó con código -11
+
+▶ detect_sentiment_iran.py
+⚠️  detect_sentiment_iran.py terminó con código -11
+
+▶ energy_tracker.py
+STDERR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: BRN=F"}}}
+$BRN=F: possibly delisted; no price data found  (period=30d) (Yahoo erro
+⚠️  energy_tracker.py terminó con código -11
+
+✅ Pipeline completado en 31s — 11:30
+
