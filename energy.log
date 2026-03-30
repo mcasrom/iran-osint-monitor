@@ -105,3 +105,7 @@ $BRN=F: possibly delisted; no price data found  (period=30d) (Yahoo error = "No 
 
 1 Failed download:
 ['BRN=F']: possibly delisted; no price data found  (period=30d) (Yahoo error = "No data found, symbol may be delisted")
+Failed to get ticker 'BRN=F' reason: Failed to perform, curl: (6) Could not resolve host: query1.finance.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+1 Failed download:
+['BRN=F']: DNSError('Failed to perform, curl: (6) Could not resolve host: query1.finance.yahoo.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
