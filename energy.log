@@ -100,3 +100,8 @@ $BRN=F: possibly delisted; no price data found  (period=30d) (Yahoo error = "No 
 
 1 Failed download:
 ['BRN=F']: possibly delisted; no price data found  (period=30d) (Yahoo error = "No data found, symbol may be delisted")
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: BRN=F"}}}
+$BRN=F: possibly delisted; no price data found  (period=30d) (Yahoo error = "No data found, symbol may be delisted")
+
+1 Failed download:
+['BRN=F']: possibly delisted; no price data found  (period=30d) (Yahoo error = "No data found, symbol may be delisted")
