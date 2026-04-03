@@ -33818,3 +33818,28 @@ IRAN OSINT PIPELINE — 2026-04-03 23:30
 
 ✅ Pipeline completado en 51s — 23:30
 
+[main 909c9f3] auto: datos 2026-04-03 23:40
+ 1 file changed, 25 insertions(+)
+To https://github.com/mcasrom/iran-osint-monitor.git
+   3d7c970..909c9f3  main -> main
+
+✅ Pipeline completado en 42s — 00:00
+
+==================================================
+IRAN OSINT PIPELINE — 2026-04-04 00:00
+==================================================
+
+▶ collect_iran.py
+⚠️  collect_iran.py terminó con código -11
+
+▶ detect_narratives_iran.py
+⚠️  detect_narratives_iran.py terminó con código -11
+
+▶ detect_sentiment_iran.py
+⚠️  detect_sentiment_iran.py terminó con código -11
+
+▶ energy_tracker.py
+⚠️  energy_tracker.py terminó con código -11
+
+✅ Pipeline completado en 42s — 00:00
+
