@@ -36,9 +36,9 @@ def fetch_brent_fallback():
     """Fallback mejorado usando Tickers activos de Yahoo Finance"""
     try:
         import yfinance as yf
-        # Intentamos con 'BRENT' (Spot) o 'BRN=F' (Intercontinental Exchange)
-        # BZ=F a veces falla en volumen, usamos BRN=F que es más estándar para Brent
-        brent = yf.download("BRN=F", period="30d", interval="1d", progress=False)
+        # Intentamos con 'BRENT' (Spot) o 'BZ=F' (Intercontinental Exchange)
+        # BZ=F a veces falla en volumen, usamos BZ=F que es más estándar para Brent
+        brent = yf.download("BZ=F", period="30d", interval="1d", progress=False)
         if not brent.empty:
             df = brent[["Close"]].reset_index()
             df.columns = ["date","price"]

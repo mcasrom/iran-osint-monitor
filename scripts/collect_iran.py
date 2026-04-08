@@ -49,12 +49,24 @@ def fetch_gdelt(keywords, max_records=250):
     """Fetch via GDELT GKG API — no key needed"""
     try:
         from gdeltdoc import GdeltDoc, Filters
+        
         gd = GdeltDoc()
         kw_str = " OR ".join(keywords[:5])
+        
+        # CORRECCIÓN: Usar fechas pasadas, GDELT tarda ~6-12h en indexar
+        # Ventana: desde hace 48h hasta hace 6h
+        end_date = (datetime.now() - timedelta(hours=6)).strftime("%Y-%m-%d")
+        start_date = (datetime.now() - timedelta(hours=54)).strftime("%Y-%m-%d")
+        
+        # Validación extra: si start_date > end_date, ajustar
+        if start_date > end_date:
+            start_date = (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d")
+            end_date = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
+        
         f = Filters(
             keyword=kw_str,
-            start_date=(datetime.now() - timedelta(hours=2)).strftime("%Y-%m-%d"),
-            end_date=datetime.now().strftime("%Y-%m-%d"),
+            start_date=start_date,
+            end_date=end_date,
         )
         articles = gd.article_search(f)
         if articles is not None and len(articles) > 0:
@@ -63,12 +75,22 @@ def fetch_gdelt(keywords, max_records=250):
             articles["fetched_at"] = str(datetime.now())
             print(f"  ✅ GDELT: {len(articles)} artículos")
             return articles.to_dict("records")
+        else:
+            print(f"  ⚠️  GDELT: 0 artículos")
+            return []
+    except ImportError:
+        print(f"  ⚠️  GDELT: Librería gdeltdoc no instalada. Instalar con: pip3 install gdeltdoc")
+        return []
     except Exception as e:
         print(f"  ⚠️  GDELT: {e}")
-    return []
+        return []
 
 def save_articles(articles):
     out = os.path.join(DATA_DIR, "iran_news.csv")
+    if not articles:
+        print("⚠️ No hay artículos para guardar")
+        return pd.DataFrame()
+    
     df_new = pd.DataFrame(articles).drop_duplicates(subset=["id"])
     if os.path.exists(out):
         df_old = pd.read_csv(out)
@@ -99,8 +121,11 @@ if __name__ == "__main__":
     gdelt_articles = fetch_gdelt(cfg["keywords_iran"]["core"])
     all_articles = rss_articles + gdelt_articles
     print(f"\n📥 Total recolectados: {len(all_articles)}")
-    df = save_articles(all_articles)
-    # Metadata
-    meta = {"last_collect": str(datetime.now()), "total_articles": len(df)}
-    json.dump(meta, open(os.path.join(DATA_DIR, "iran_meta.json"), "w"))
+    if all_articles:
+        df = save_articles(all_articles)
+        # Metadata
+        meta = {"last_collect": str(datetime.now()), "total_articles": len(df)}
+        json.dump(meta, open(os.path.join(DATA_DIR, "iran_meta.json"), "w"))
+    else:
+        print("⚠️ No se recolectaron artículos")
     print("\n✅ collect_iran.py completado")
