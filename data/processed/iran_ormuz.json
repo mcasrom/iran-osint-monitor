@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 102,
+    "alertas": 93,
     "nivel": "rojo",
     "titulares": [
-        "Trump: ‘A whole civilization will die tonight’ if ultimatum for Iran to open Hormuz expires",
-        "🔴 Middle East war live: Russia, China veto UN resolution on reopening Strait of Hormuz",
-        "Russia, China block Bahrain-sponsored UN resolution on Strait of Hormuz"
+        "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
+        "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait",
+        "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz"
     ],
-    "updated": "2026-04-11 00:00:55.037999"
+    "updated": "2026-04-11 00:31:00.089739"
 }
