@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 89,
+    "alertas": 87,
     "nivel": "rojo",
     "titulares": [
-        "Oil prices plunge on US-Iran ceasefire deal to reopen Strait of Hormuz",
-        "In Strait of Hormuz, Iran and China take aim at US dollar hegemony",
-        "Iran’s revenue from shipping through Strait of Hormuz could top $64 bln — TV"
+        "Iran’s revenue from shipping through Strait of Hormuz could top $64 bln — TV",
+        "Iran war live: Trump announces truce, Tehran agrees safe transit in Hormuz",
+        "Iran war live: Trump declares ceasefire, Tehran agrees safe Hormuz transit"
     ],
-    "updated": "2026-04-11 08:30:45.495835"
+    "updated": "2026-04-11 09:01:09.874149"
 }
