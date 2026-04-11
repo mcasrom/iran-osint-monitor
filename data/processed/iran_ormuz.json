@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 78,
+    "alertas": 77,
     "nivel": "rojo",
     "titulares": [
-        "Arctic Metagaz: Russian ‘shadow fleet’ tanker adrift in the Mediterranean faces uncertain fate",
         "First ships sail through Hormuz after announced ceasefire in region",
-        "Ceasefire, opening of Strait of Hormuz temporary steps — Russian expert"
+        "Ceasefire, opening of Strait of Hormuz temporary steps — Russian expert",
+        "Pentagon believes Strait of Hormuz currently open for navigation"
     ],
-    "updated": "2026-04-11 14:02:05.969203"
+    "updated": "2026-04-11 14:30:52.619120"
 }
