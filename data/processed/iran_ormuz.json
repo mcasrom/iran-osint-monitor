@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 78,
+    "alertas": 77,
     "nivel": "rojo",
     "titulares": [
-        "‘A lot of work to do’ to reopen Strait of Hormuz after US-Iran ceasefire",
         "Iran closes Strait of Hormuz again as Israel pounds Lebanon, air defense systems go off in Tehran",
-        "Iran seeks new rules for ships passing through Hormuz — Reuters"
+        "Iran seeks new rules for ships passing through Hormuz — Reuters",
+        "US to not uphold ceasefire if Iran does not open Strait of Hormuz — vice president"
     ],
-    "updated": "2026-04-11 20:00:48.840998"
+    "updated": "2026-04-11 20:30:48.747809"
 }
