@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 80,
+    "alertas": 78,
     "nivel": "rojo",
     "titulares": [
-        "Oil prices fall after ceasefire deal as questions over Hormuz Strait linger",
-        "Three Thai crew killed in Hormuz attack as ships remain stranded",
-        "Man fined after breaking into viral hippo Moo Deng's enclosure"
+        "Man fined after breaking into viral hippo Moo Deng's enclosure",
+        "Arctic Metagaz: Russian ‘shadow fleet’ tanker adrift in the Mediterranean faces uncertain fate",
+        "First ships sail through Hormuz after announced ceasefire in region"
     ],
-    "updated": "2026-04-11 12:31:05.919266"
+    "updated": "2026-04-11 13:01:04.039454"
 }
