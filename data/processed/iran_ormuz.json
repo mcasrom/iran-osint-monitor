@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 76,
+    "alertas": 78,
     "nivel": "rojo",
     "titulares": [
-        "Pentagon believes Strait of Hormuz currently open for navigation",
-        "Israeli closure of Al-Aqsa ‘selective’, ‘discriminatory’",
-        "Iran intends to fee $1 per barrel of oil for passage through Strait of Hormuz — newspaper"
+        "Iran intends to fee $1 per barrel of oil for passage through Strait of Hormuz — newspaper",
+        "Iran’s armed forces keep ‘intelligent’ control over Strait of Hormuz",
+        "Shipping in Strait of Hormuz won’t quickly recover after ceasefire — The Independent"
     ],
-    "updated": "2026-04-11 16:00:46.675278"
+    "updated": "2026-04-11 16:30:43.726675"
 }
