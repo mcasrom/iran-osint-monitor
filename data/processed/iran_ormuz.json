@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 90,
+    "alertas": 89,
     "nivel": "rojo",
     "titulares": [
-        "AP: Iran, Oman to charge fees for Hormuz passage under ceasefire",
         "Oil prices plunge on US-Iran ceasefire deal to reopen Strait of Hormuz",
-        "In Strait of Hormuz, Iran and China take aim at US dollar hegemony"
+        "In Strait of Hormuz, Iran and China take aim at US dollar hegemony",
+        "Iran’s revenue from shipping through Strait of Hormuz could top $64 bln — TV"
     ],
-    "updated": "2026-04-11 05:30:45.990307"
+    "updated": "2026-04-11 06:00:51.149083"
 }
