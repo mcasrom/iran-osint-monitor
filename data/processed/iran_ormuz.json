@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 81,
+    "alertas": 80,
     "nivel": "rojo",
     "titulares": [
-        "Middle East live: First ships pass through Strait of Hormuz since ceasefire, monitor says",
         "Oil prices fall after ceasefire deal as questions over Hormuz Strait linger",
-        "Three Thai crew killed in Hormuz attack as ships remain stranded"
+        "Three Thai crew killed in Hormuz attack as ships remain stranded",
+        "Man fined after breaking into viral hippo Moo Deng's enclosure"
     ],
-    "updated": "2026-04-11 12:00:49.301272"
+    "updated": "2026-04-11 12:31:05.919266"
 }
