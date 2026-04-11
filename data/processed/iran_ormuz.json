@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 87,
+    "alertas": 85,
     "nivel": "rojo",
     "titulares": [
-        "Iran’s revenue from shipping through Strait of Hormuz could top $64 bln — TV",
-        "Iran war live: Trump announces truce, Tehran agrees safe transit in Hormuz",
-        "Iran war live: Trump declares ceasefire, Tehran agrees safe Hormuz transit"
+        "Iran war live: Trump declares ceasefire, Tehran agrees safe Hormuz transit",
+        "India expects free passage through Strait of Hormuz",
+        "Shipping remains halted in Hormuz despite Iran-US ceasefire"
     ],
-    "updated": "2026-04-11 09:30:46.306134"
+    "updated": "2026-04-11 10:00:49.924304"
 }
