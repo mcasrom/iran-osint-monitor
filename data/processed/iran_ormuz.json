@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 78,
+    "alertas": 77,
     "nivel": "rojo",
     "titulares": [
-        "Iran intends to fee $1 per barrel of oil for passage through Strait of Hormuz — newspaper",
         "Iran’s armed forces keep ‘intelligent’ control over Strait of Hormuz",
-        "Shipping in Strait of Hormuz won’t quickly recover after ceasefire — The Independent"
+        "Shipping in Strait of Hormuz won’t quickly recover after ceasefire — The Independent",
+        "Ships still cautious about using Strait of Hormuz as Iran issues warning"
     ],
-    "updated": "2026-04-11 16:30:43.726675"
+    "updated": "2026-04-11 17:00:42.861437"
 }
