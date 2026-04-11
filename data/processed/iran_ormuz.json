@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 83,
+    "alertas": 82,
     "nivel": "rojo",
     "titulares": [
-        "Shipping remains halted in Hormuz despite Iran-US ceasefire",
         "Italy rules out Hormuz naval deployment without UN mandate",
-        "Middle East live: First ships pass through Strait of Hormuz since ceasefire, monitor says"
+        "Middle East live: First ships pass through Strait of Hormuz since ceasefire, monitor says",
+        "Oil prices fall after ceasefire deal as questions over Hormuz Strait linger"
     ],
-    "updated": "2026-04-11 11:00:46.719302"
+    "updated": "2026-04-11 11:30:50.704732"
 }
