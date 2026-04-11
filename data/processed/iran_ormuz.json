@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 84,
+    "alertas": 83,
     "nivel": "rojo",
     "titulares": [
-        "India expects free passage through Strait of Hormuz",
         "Shipping remains halted in Hormuz despite Iran-US ceasefire",
-        "Italy rules out Hormuz naval deployment without UN mandate"
+        "Italy rules out Hormuz naval deployment without UN mandate",
+        "Middle East live: First ships pass through Strait of Hormuz since ceasefire, monitor says"
     ],
-    "updated": "2026-04-11 10:30:45.270328"
+    "updated": "2026-04-11 11:00:46.719302"
 }
