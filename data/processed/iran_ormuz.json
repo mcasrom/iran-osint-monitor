@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 77,
+    "alertas": 78,
     "nivel": "rojo",
     "titulares": [
-        "Iran’s armed forces keep ‘intelligent’ control over Strait of Hormuz",
         "Shipping in Strait of Hormuz won’t quickly recover after ceasefire — The Independent",
-        "Ships still cautious about using Strait of Hormuz as Iran issues warning"
+        "Ships still cautious about using Strait of Hormuz as Iran issues warning",
+        "Iran Strait of Hormuz warning adds to shipping uncertainty"
     ],
-    "updated": "2026-04-11 17:00:42.861437"
+    "updated": "2026-04-11 17:30:41.797463"
 }
