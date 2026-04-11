@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 82,
+    "alertas": 81,
     "nivel": "rojo",
     "titulares": [
-        "Italy rules out Hormuz naval deployment without UN mandate",
         "Middle East live: First ships pass through Strait of Hormuz since ceasefire, monitor says",
-        "Oil prices fall after ceasefire deal as questions over Hormuz Strait linger"
+        "Oil prices fall after ceasefire deal as questions over Hormuz Strait linger",
+        "Three Thai crew killed in Hormuz attack as ships remain stranded"
     ],
-    "updated": "2026-04-11 11:30:50.704732"
+    "updated": "2026-04-11 12:00:49.301272"
 }
