@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 77,
+    "alertas": 75,
     "nivel": "rojo",
     "titulares": [
-        "First ships sail through Hormuz after announced ceasefire in region",
-        "Ceasefire, opening of Strait of Hormuz temporary steps — Russian expert",
-        "Pentagon believes Strait of Hormuz currently open for navigation"
+        "Pentagon believes Strait of Hormuz currently open for navigation",
+        "Israeli closure of Al-Aqsa ‘selective’, ‘discriminatory’",
+        "Iran intends to fee $1 per barrel of oil for passage through Strait of Hormuz — newspaper"
     ],
-    "updated": "2026-04-11 14:30:52.619120"
+    "updated": "2026-04-11 15:00:51.738149"
 }
