@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 85,
+    "alertas": 84,
     "nivel": "rojo",
     "titulares": [
-        "Iran war live: Trump declares ceasefire, Tehran agrees safe Hormuz transit",
         "India expects free passage through Strait of Hormuz",
-        "Shipping remains halted in Hormuz despite Iran-US ceasefire"
+        "Shipping remains halted in Hormuz despite Iran-US ceasefire",
+        "Italy rules out Hormuz naval deployment without UN mandate"
     ],
-    "updated": "2026-04-11 10:00:49.924304"
+    "updated": "2026-04-11 10:30:45.270328"
 }
