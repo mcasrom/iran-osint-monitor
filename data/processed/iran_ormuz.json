@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 90,
+    "alertas": 89,
     "nivel": "rojo",
     "titulares": [
-        "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz",
         "US-Iranian ceasefire to come into force when Strait of Hormuz reopens — Axios",
-        "AP: Iran, Oman to charge fees for Hormuz passage under ceasefire"
+        "AP: Iran, Oman to charge fees for Hormuz passage under ceasefire",
+        "Oil prices plunge on US-Iran ceasefire deal to reopen Strait of Hormuz"
     ],
-    "updated": "2026-04-11 04:30:46.132603"
+    "updated": "2026-04-11 05:00:49.239425"
 }
