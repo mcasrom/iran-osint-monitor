@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 94,
+    "alertas": 92,
     "nivel": "rojo",
     "titulares": [
-        "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
-        "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait",
-        "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz"
+        "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
+        "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
+        "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz"
     ],
-    "updated": "2026-04-11 01:30:49.270225"
+    "updated": "2026-04-11 02:00:47.001277"
 }
