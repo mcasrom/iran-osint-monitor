@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 92,
+    "alertas": 91,
     "nivel": "rojo",
     "titulares": [
-        "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
         "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
-        "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz"
+        "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz",
+        "US-Iranian ceasefire to come into force when Strait of Hormuz reopens — Axios"
     ],
-    "updated": "2026-04-11 03:00:48.095256"
+    "updated": "2026-04-11 03:31:01.867064"
 }
