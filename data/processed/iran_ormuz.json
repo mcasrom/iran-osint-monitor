@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 84,
+    "alertas": 83,
     "nivel": "rojo",
     "titulares": [
-        "Chart shows Iran may have put sea mines in Strait of Hormuz",
         "US oil companies against Hormuz Strait fee — Politico",
-        "Iran issues map to help ships avoid mines in Strait of Hormuz"
+        "Iran issues map to help ships avoid mines in Strait of Hormuz",
+        "EU slams Hormuz toll idea, urges unrestricted freedom of navigation"
     ],
-    "updated": "2026-04-12 11:30:43.833228"
+    "updated": "2026-04-12 12:00:49.210799"
 }
