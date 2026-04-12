@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 94,
+    "alertas": 93,
     "nivel": "rojo",
     "titulares": [
-        "Trump says Iran should not charge fee for passage through Strait of Hormuz",
         "Iran ‘doing a very poor job’ of allowing oil through Strait of Hormuz, Trump says",
-        "Six vessels pass through Hormuz Strait on Thursday"
+        "Six vessels pass through Hormuz Strait on Thursday",
+        "US insists on specific NATO commitments on Strait of Hormuz — CNN"
     ],
-    "updated": "2026-04-13 00:00:49.599676"
+    "updated": "2026-04-13 00:30:45.116442"
 }
