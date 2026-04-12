@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 80,
+    "alertas": 75,
     "nivel": "rojo",
     "titulares": [
-        "Summer school programs to be extended after weeks of wartime closures",
-        "About 10 vessels cross Hormuz Strait after reports of closure",
-        "Hormuz remains de-facto closed, ADNOC chief says"
+        "Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire",
+        "Iran to allow no more than 15 vessels per day through Hormuz — source",
+        "Iran to open Hormuz if US stops its aggression, senior diplomat says"
     ],
-    "updated": "2026-04-12 14:30:54.368976"
+    "updated": "2026-04-12 15:00:42.984074"
 }
