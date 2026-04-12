@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 82,
+    "alertas": 81,
     "nivel": "rojo",
     "titulares": [
-        "Iran obliges ships passing through Hormuz Strait to follow alternative routes",
         "Iran media claims Hormuz closed again; maritime data shows oil tanker has been turned away",
-        "Iran announces alternative routes to Hormuz Strait, local media reports"
+        "Iran announces alternative routes to Hormuz Strait, local media reports",
+        "Al-Aqsa reopens after Israel's closure since start of war on Iran"
     ],
-    "updated": "2026-04-12 01:30:40.164721"
+    "updated": "2026-04-12 02:00:43.438213"
 }
