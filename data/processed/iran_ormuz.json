@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 86,
+    "alertas": 85,
     "nivel": "rojo",
     "titulares": [
-        "For Gulf states, Hormuz uncertainty casts shadow over fragile US-Iran truce",
         "Hormuz uncertainty mars fragile US-Iran ceasefire",
-        "For Gulf states, Hormuz uncertainty casts shadow over US-Iran ceasefire"
+        "For Gulf states, Hormuz uncertainty casts shadow over US-Iran ceasefire",
+        "As Trump claims victory, Iran emerges bruised but resilient, with leverage over Hormuz"
     ],
-    "updated": "2026-04-12 08:00:46.893395"
+    "updated": "2026-04-12 08:30:46.067531"
 }
