@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 81,
+    "alertas": 80,
     "nivel": "rojo",
     "titulares": [
-        "Iran media claims Hormuz closed again; maritime data shows oil tanker has been turned away",
-        "Iran announces alternative routes to Hormuz Strait, local media reports",
-        "Al-Aqsa reopens after Israel's closure since start of war on Iran"
+        "Al-Aqsa reopens after Israel's closure since start of war on Iran",
+        "US-Iran ceasefire: Why Tehran wants to charge ships for crossing the Strait of Hormuz",
+        "For Gulf states, Hormuz uncertainty casts shadow over fragile US-Iran truce"
     ],
-    "updated": "2026-04-12 02:00:43.438213"
+    "updated": "2026-04-12 02:30:41.334334"
 }
