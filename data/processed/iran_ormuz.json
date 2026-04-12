@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 85,
+    "alertas": 86,
     "nivel": "rojo",
     "titulares": [
-        "US-Iran ceasefire: Why Tehran wants to charge ships for crossing the Strait of Hormuz",
         "For Gulf states, Hormuz uncertainty casts shadow over fragile US-Iran truce",
-        "Hormuz uncertainty mars fragile US-Iran ceasefire"
+        "Hormuz uncertainty mars fragile US-Iran ceasefire",
+        "For Gulf states, Hormuz uncertainty casts shadow over US-Iran ceasefire"
     ],
-    "updated": "2026-04-12 07:00:48.036992"
+    "updated": "2026-04-12 07:30:42.068723"
 }
