@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 92,
+    "alertas": 91,
     "nivel": "rojo",
     "titulares": [
-        "Iran: Strait of Hormuz open with restrictions",
-        "Starmer and Trump discuss need for opening Strait of Hormuz",
-        "Trump says Iran should not charge fee for passage through Strait of Hormuz"
+        "Trump says Iran should not charge fee for passage through Strait of Hormuz",
+        "Iran ‘doing a very poor job’ of allowing oil through Strait of Hormuz, Trump says",
+        "Six vessels pass through Hormuz Strait on Thursday"
     ],
-    "updated": "2026-04-12 22:30:43.106640"
+    "updated": "2026-04-12 23:00:46.179354"
 }
