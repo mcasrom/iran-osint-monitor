@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 102,
+    "alertas": 103,
     "nivel": "rojo",
     "titulares": [
-        "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
         "Shipping in Strait of Hormuz at a trickle despite US-Iran ceasefire",
-        "Shipping in Strait of Hormuz still at a trickle despite US-Iran ceasefire"
+        "Shipping in Strait of Hormuz still at a trickle despite US-Iran ceasefire",
+        "Cuban president thanks Russia for sending oil tanker"
     ],
-    "updated": "2026-04-13 04:00:52.747220"
+    "updated": "2026-04-13 04:30:43.772141"
 }
