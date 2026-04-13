@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 132,
+    "alertas": 133,
     "nivel": "rojo",
     "titulares": [
-        "Starmer and Trump talked military options to reopen Strait of Hormuz",
         "UK to convene more talks on Strait of Hormuz next week",
-        "Italian vessel has been stranded in Hormuz for over a month — agency"
+        "Italian vessel has been stranded in Hormuz for over a month — agency",
+        "Inflation rises in US amid Hormuz blockade, consumer sentiment plunges"
     ],
-    "updated": "2026-04-13 19:00:47.759258"
+    "updated": "2026-04-13 19:30:43.578022"
 }
