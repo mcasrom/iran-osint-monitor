@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 94,
+    "alertas": 97,
     "nivel": "rojo",
     "titulares": [
-        "Six vessels pass through Hormuz Strait on Thursday",
         "US insists on specific NATO commitments on Strait of Hormuz — CNN",
-        "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'"
+        "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+        "Shipping in Strait of Hormuz at a trickle despite US-Iran ceasefire"
     ],
-    "updated": "2026-04-13 02:00:49.431429"
+    "updated": "2026-04-13 02:30:45.018304"
 }
