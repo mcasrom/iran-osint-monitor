@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 102,
+    "alertas": 101,
     "nivel": "rojo",
     "titulares": [
-        "Shipping in Strait of Hormuz still at a trickle despite US-Iran ceasefire",
         "Cuban president thanks Russia for sending oil tanker",
-        "Shipping in Strait of Hormuz at a standstill despite US-Iran ceasefire"
+        "Shipping in Strait of Hormuz at a standstill despite US-Iran ceasefire",
+        "John Spencer: US can force open Strait of Hormuz if it decides to"
     ],
-    "updated": "2026-04-13 05:00:43.921219"
+    "updated": "2026-04-13 05:30:43.341255"
 }
