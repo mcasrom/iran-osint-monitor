@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 120,
+    "alertas": 130,
     "nivel": "rojo",
     "titulares": [
-        "Nearly 3,200 vessels awaiting safe passage through the Strait of Hormuz — Fox News",
-        "Iran to open Hormuz after end of war with the US, Israel — Iranian Supreme Leader’s envoy",
-        "France's drone minehunters target Strait of Hormuz"
+        "France's drone minehunters target Strait of Hormuz",
+        "Inflation rises in US amid Iran war, Hormuz blockade",
+        "Experts warn ‘damage already done’ to food production from Hormuz closure"
     ],
-    "updated": "2026-04-13 15:30:43.207451"
+    "updated": "2026-04-13 17:31:12.798583"
 }
