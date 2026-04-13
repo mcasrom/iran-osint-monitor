@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 100,
+    "alertas": 102,
     "nivel": "rojo",
     "titulares": [
         "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
         "Shipping in Strait of Hormuz at a trickle despite US-Iran ceasefire",
         "Shipping in Strait of Hormuz still at a trickle despite US-Iran ceasefire"
     ],
-    "updated": "2026-04-13 03:30:43.476941"
+    "updated": "2026-04-13 04:00:52.747220"
 }
