@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 168,
+    "alertas": 167,
     "nivel": "rojo",
     "titulares": [
-        "IRGC to prevent all military vessels from crossing Strait of Hormuz",
         "Pakistan proposes joint patrols for Hormuz in US-Iran talks",
-        "Ship traffic rises in Hormuz as US-Iran talks continue in Islamabad"
+        "Ship traffic rises in Hormuz as US-Iran talks continue in Islamabad",
+        "Strait of Hormuz status to remain unchanged until common framework with US reached — CNN"
     ],
-    "updated": "2026-04-15 00:00:50.206354"
+    "updated": "2026-04-15 00:30:42.460050"
 }
