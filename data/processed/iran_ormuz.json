@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 164,
+    "alertas": 166,
     "nivel": "rojo",
     "titulares": [
-        "Iranian military ‘strongly’ denies US claim two ships passed through Hormuz",
         "US says Navy destroyers working to de-mine Strait of Hormuz",
-        "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing"
+        "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing",
+        "Iran-US negotiations underway in Pakistan, US says Strait of Hormuz being 'cleared'"
     ],
-    "updated": "2026-04-14 21:00:56.265904"
+    "updated": "2026-04-14 21:30:54.403417"
 }
