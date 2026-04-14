@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 163,
+    "alertas": 165,
     "nivel": "rojo",
     "titulares": [
-        "US-Iran talks hit ‘stalemate’ over Strait of Hormuz, FT reports",
         "US military says two of its warships passed through Hormuz to remove mines",
-        "Strait of Hormuz leverage looms over US-Iran talks in Islamabad"
+        "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
+        "Trump reiterates Strait of Hormuz to be soon open to navigation"
     ],
-    "updated": "2026-04-14 18:30:44.298367"
+    "updated": "2026-04-14 19:00:49.792243"
 }
