@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 165,
+    "alertas": 164,
     "nivel": "rojo",
     "titulares": [
-        "Fuel tankers regain access to oil refinery",
-        "US, Iran hold direct talks in Pakistan; Tehran demands control of Hormuz, truce in Lebanon",
-        "Fuel tankers regain access to Irish oil refinery"
+        "Fuel tankers regain access to Irish oil refinery",
+        "US-Iran talks hit ‘stalemate’ over Strait of Hormuz, FT reports",
+        "US military says two of its warships passed through Hormuz to remove mines"
     ],
-    "updated": "2026-04-14 17:02:02.633381"
+    "updated": "2026-04-14 17:30:45.591500"
 }
