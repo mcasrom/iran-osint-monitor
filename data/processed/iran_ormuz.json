@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 164,
+    "alertas": 163,
     "nivel": "rojo",
     "titulares": [
-        "Fuel tankers regain access to Irish oil refinery",
         "US-Iran talks hit ‘stalemate’ over Strait of Hormuz, FT reports",
-        "US military says two of its warships passed through Hormuz to remove mines"
+        "US military says two of its warships passed through Hormuz to remove mines",
+        "Strait of Hormuz leverage looms over US-Iran talks in Islamabad"
     ],
-    "updated": "2026-04-14 17:30:45.591500"
+    "updated": "2026-04-14 18:00:47.822386"
 }
