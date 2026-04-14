@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 169,
+    "alertas": 168,
     "nivel": "rojo",
     "titulares": [
-        "IRGC warns military vessels attempting to cross Hormuz of ‘strong response’",
         "IRGC Navy warns military vessels of 'firm response' to attempts at crossing Strait of Hormuz",
-        "IRGC to prevent all military vessels from crossing Strait of Hormuz"
+        "IRGC to prevent all military vessels from crossing Strait of Hormuz",
+        "Pakistan proposes joint patrols for Hormuz in US-Iran talks"
     ],
-    "updated": "2026-04-14 23:00:50.902676"
+    "updated": "2026-04-14 23:30:52.598207"
 }
