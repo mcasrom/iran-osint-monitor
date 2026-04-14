@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 165,
+    "alertas": 164,
     "nivel": "rojo",
     "titulares": [
-        "US military says two of its warships passed through Hormuz to remove mines",
         "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
-        "Trump reiterates Strait of Hormuz to be soon open to navigation"
+        "Trump reiterates Strait of Hormuz to be soon open to navigation",
+        "Paris ready to help ensure safe navigation in Hormuz — Macron"
     ],
-    "updated": "2026-04-14 19:00:49.792243"
+    "updated": "2026-04-14 19:30:42.991291"
 }
