@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 164,
+    "alertas": 163,
     "nivel": "rojo",
     "titulares": [
-        "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
         "Trump reiterates Strait of Hormuz to be soon open to navigation",
-        "Paris ready to help ensure safe navigation in Hormuz — Macron"
+        "Paris ready to help ensure safe navigation in Hormuz — Macron",
+        "Iranian military ‘strongly’ denies US claim two ships passed through Hormuz"
     ],
-    "updated": "2026-04-14 19:30:42.991291"
+    "updated": "2026-04-14 20:00:44.382081"
 }
