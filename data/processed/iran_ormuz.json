@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 166,
+    "alertas": 165,
     "nivel": "rojo",
     "titulares": [
-        "US says Navy destroyers working to de-mine Strait of Hormuz",
-        "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing",
-        "Iran-US negotiations underway in Pakistan, US says Strait of Hormuz being 'cleared'"
+        "Iran-US negotiations underway in Pakistan, US says Strait of Hormuz being 'cleared'",
+        "IRGC warns military vessels attempting to cross Hormuz of ‘strong response’",
+        "IRGC Navy warns military vessels of 'firm response' to attempts at crossing Strait of Hormuz"
     ],
-    "updated": "2026-04-14 21:30:54.403417"
+    "updated": "2026-04-14 22:00:45.852875"
 }
