@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 167,
+    "alertas": 164,
     "nivel": "rojo",
     "titulares": [
-        "US-Iran talks begin in Pakistan; Tehran demands control of Hormuz, truce in Lebanon",
-        "Trump claims US starts ‘clearing out’ Strait of Hormuz",
-        "Iran denies US Navy destroyer passed through Strait of Hormuz"
+        "Fuel tankers regain access to oil refinery",
+        "US, Iran hold direct talks in Pakistan; Tehran demands control of Hormuz, truce in Lebanon",
+        "Fuel tankers regain access to Irish oil refinery"
     ],
-    "updated": "2026-04-14 16:00:48.903516"
+    "updated": "2026-04-14 16:30:45.816360"
 }
