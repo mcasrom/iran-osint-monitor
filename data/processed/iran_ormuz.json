@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 168,
+    "alertas": 169,
     "nivel": "rojo",
     "titulares": [
-        "Iran-US negotiations underway in Pakistan, US says Strait of Hormuz being 'cleared'",
         "IRGC warns military vessels attempting to cross Hormuz of ‘strong response’",
-        "IRGC Navy warns military vessels of 'firm response' to attempts at crossing Strait of Hormuz"
+        "IRGC Navy warns military vessels of 'firm response' to attempts at crossing Strait of Hormuz",
+        "IRGC to prevent all military vessels from crossing Strait of Hormuz"
     ],
-    "updated": "2026-04-14 22:30:47.038791"
+    "updated": "2026-04-14 23:00:50.902676"
 }
