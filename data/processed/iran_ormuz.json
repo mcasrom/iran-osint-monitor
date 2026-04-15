@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 172,
+    "alertas": 171,
     "nivel": "rojo",
     "titulares": [
-        "Iran turned enemy’s ‘regime change’ dream into ‘change of governing regime in Hormuz’",
-        "Trump says US to blockade ships crossing Strait of Hormuz",
-        "Trump announces Strait of Hormuz blockade after US-Iran peace talks end"
+        "Trump announces Strait of Hormuz blockade after US-Iran peace talks end",
+        "Trump says US will begin 'blockading' the Strait of Hormuz",
+        "Trump says US imposing ‘complete’ naval blockade of Iran"
     ],
-    "updated": "2026-04-15 17:30:44.400455"
+    "updated": "2026-04-15 18:00:49.020664"
 }
