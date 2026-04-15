@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 166,
+    "alertas": 160,
     "nivel": "rojo",
     "titulares": [
-        "Trump's Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged",
-        "New Gaza aid flotilla sets sail from Spain, trying again to break Israeli blockade",
-        "Iran - Enemies of the Straights: Former NATO General discusses US blockade threats"
+        "Trump's blockade threat raises risks and leaves predicaments unchanged",
+        "Iran - Enemies of the Strait: Former NATO General discusses US blockade threats",
+        "UK, France to work on resuming navigation in Strait of Hormuz"
     ],
-    "updated": "2026-04-15 20:00:46.552622"
+    "updated": "2026-04-15 20:30:48.299764"
 }
