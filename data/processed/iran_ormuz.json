@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 169,
+    "alertas": 168,
     "nivel": "rojo",
     "titulares": [
-        "Trump shares article saying he could impose naval blockade on Iran if it won’t ‘bend’",
         "Iran denies US claim of vessels transit in Strait of Hormuz",
-        "Two supertankers U-turn in Strait of Hormuz — Bloomberg"
+        "Two supertankers U-turn in Strait of Hormuz — Bloomberg",
+        "Strait of Hormuz firmly in Iran’s ‘capable hands’: Leader’s advisor"
     ],
-    "updated": "2026-04-15 08:30:47.953240"
+    "updated": "2026-04-15 09:00:54.046413"
 }
