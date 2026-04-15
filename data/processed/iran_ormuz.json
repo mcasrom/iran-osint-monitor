@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 172,
+    "alertas": 170,
     "nivel": "rojo",
     "titulares": [
-        "🔴 Middle East war live: Trump says US will begin 'blockading' Strait of Hormuz",
-        "Iran will stand firm on defending rights from Hormuz to compensation: VP",
-        "Trump says US will 'blockade all ships entering or leaving Hormuz'"
+        "Trump threatens to block Strait of Hormuz, says US ready to 'finish up' Iran",
+        "Trump orders blockade of Hormuz Strait",
+        "Trump vows to block Strait of Hormuz, says US ready to 'finish up' Iran"
     ],
-    "updated": "2026-04-15 15:01:03.992203"
+    "updated": "2026-04-15 15:31:15.926698"
 }
