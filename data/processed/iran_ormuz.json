@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 162,
+    "alertas": 163,
     "nivel": "rojo",
     "titulares": [
-        "What is a naval blockade and how would it work in Strait of Hormuz?",
         "Iran navy chief mocks Trump Hormuz blockade threat as ‘ridiculous’",
-        "US to enforce maritime blockade on Iranian ports from April 13"
+        "US to enforce maritime blockade on Iranian ports from April 13",
+        "Trump orders naval blockade of Strait of Hormuz after failed US-Iran talks"
     ],
-    "updated": "2026-04-15 23:00:46.651751"
+    "updated": "2026-04-15 23:30:44.997769"
 }
