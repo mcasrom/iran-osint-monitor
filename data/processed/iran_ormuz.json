@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 168,
+    "alertas": 167,
     "nivel": "rojo",
     "titulares": [
-        "Ship traffic rises in Hormuz as US-Iran talks continue in Islamabad",
         "Strait of Hormuz status to remain unchanged until common framework with US reached — CNN",
-        "Tasnim: No change in Hormuz until US agrees to ‘reasonable’ deal"
+        "Tasnim: No change in Hormuz until US agrees to ‘reasonable’ deal",
+        "Axios: Hormuz control, uranium stockpile key disputes in US-Iran talks"
     ],
-    "updated": "2026-04-15 03:01:59.324122"
+    "updated": "2026-04-15 03:30:52.081367"
 }
