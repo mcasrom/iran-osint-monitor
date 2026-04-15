@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 173,
+    "alertas": 172,
     "nivel": "rojo",
     "titulares": [
-        "Press TV Exclusive: US destroyers' Strait of Hormuz transit stunt failed, came close to destruction",
         "🔴 Middle East war live: Trump says US will begin 'blockading' Strait of Hormuz",
-        "Iran will stand firm on defending rights from Hormuz to compensation: VP"
+        "Iran will stand firm on defending rights from Hormuz to compensation: VP",
+        "Trump says US will 'blockade all ships entering or leaving Hormuz'"
     ],
-    "updated": "2026-04-15 14:00:41.341514"
+    "updated": "2026-04-15 14:30:46.718494"
 }
