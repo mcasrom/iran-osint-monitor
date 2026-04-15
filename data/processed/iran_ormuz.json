@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 170,
+    "alertas": 168,
     "nivel": "rojo",
     "titulares": [
-        "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire",
-        "Iran must not charge tolls in Strait of Hormuz, UN maritime chief says",
-        "Trump shares article saying he could impose naval blockade on Iran if it won’t ‘bend’"
+        "Trump shares article saying he could impose naval blockade on Iran if it won’t ‘bend’",
+        "Iran denies US claim of vessels transit in Strait of Hormuz",
+        "Two supertankers U-turn in Strait of Hormuz — Bloomberg"
     ],
-    "updated": "2026-04-15 07:02:55.918390"
+    "updated": "2026-04-15 07:30:47.553491"
 }
