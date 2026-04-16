@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 153,
+    "alertas": 152,
     "nivel": "rojo",
     "titulares": [
-        "Saudi Arabia restores East-West pipeline, Manifa output after Hormuz disruption",
         "Oil prices spike above $103 after US announces Iran 'naval blockade'",
-        "IRGC: Military vessels approaching Hormuz constitute 'breach of ceasefire'"
+        "IRGC: Military vessels approaching Hormuz constitute 'breach of ceasefire'",
+        "Iran parl. speaker warns Americans will be ‘nostalgic’ for cheap gas after naval blockade"
     ],
-    "updated": "2026-04-16 07:00:48.631291"
+    "updated": "2026-04-16 07:30:51.404711"
 }
