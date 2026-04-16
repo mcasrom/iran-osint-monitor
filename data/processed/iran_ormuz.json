@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 156,
+    "alertas": 154,
     "nivel": "rojo",
     "titulares": [
-        "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
-        "Oil prices surge past $103 a barrel after US announces blockade of Iran",
-        "As Hormuz blockade looms, Trump says he is ‘fine’ if Iran doesn’t return to talks"
+        "As Hormuz blockade looms, Trump says he is ‘fine’ if Iran doesn’t return to talks",
+        "Middle East war live: Trump announces blockade of Strait of Hormuz on Monday",
+        "Shipping halts in Hormuz after US blockade announcement"
     ],
-    "updated": "2026-04-16 03:31:12.548248"
+    "updated": "2026-04-16 04:03:00.938744"
 }
