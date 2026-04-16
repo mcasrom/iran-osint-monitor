@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 120,
+    "alertas": 119,
     "nivel": "rojo",
     "titulares": [
-        "US engages over 15 US warships in blockade of Iran — newspaper",
         "Intervention into Strait of Hormuz security to cause escalation — Iran’s defense ministry",
-        "Trump says Iranian ships to be ‘eliminated’ as US naval blockade begins"
+        "Trump says Iranian ships to be ‘eliminated’ as US naval blockade begins",
+        "Iran on blockade of Hormuz: US can’t win ‘war of choice’ through ‘revenge of choice’"
     ],
-    "updated": "2026-04-16 18:30:47.372062"
+    "updated": "2026-04-16 19:00:53.945170"
 }
