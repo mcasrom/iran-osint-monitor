@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 114,
+    "alertas": 113,
     "nivel": "rojo",
     "titulares": [
-        "US energy chief: Oil prices likely to rise until 'meaningful' traffic resumes through Hormuz",
         "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
-        "US positions warships in region as it moves to enforce naval blockade of Iran"
+        "US positions warships in region as it moves to enforce naval blockade of Iran",
+        "Vance says talks with Iran made progress, defends shipping blockade"
     ],
-    "updated": "2026-04-17 00:30:45.326376"
+    "updated": "2026-04-17 01:01:02.124807"
 }
