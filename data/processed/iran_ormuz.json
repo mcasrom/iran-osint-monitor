@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 157,
+    "alertas": 156,
     "nivel": "rojo",
     "titulares": [
-        "‘Ridiculous’: Iran army’s navy chief mocks Trump threats to block Hormuz strait",
         "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
-        "Oil prices surge past $103 a barrel after US announces blockade of Iran"
+        "Oil prices surge past $103 a barrel after US announces blockade of Iran",
+        "As Hormuz blockade looms, Trump says he is ‘fine’ if Iran doesn’t return to talks"
     ],
-    "updated": "2026-04-16 03:00:52.489011"
+    "updated": "2026-04-16 03:31:12.548248"
 }
