@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 164,
+    "alertas": 160,
     "nivel": "rojo",
     "titulares": [
-        "Iran war live: US military to block Iranian port traffic in Hormuz Strait",
-        "Australia’s Albanese says US has not requested help with blockade",
-        "Conflicting US statements cloud blockade details as Centcom differs with Trump"
+        "Oil jumps above $100 as US to blockade Iranian ports after peace talks fail",
+        "US military threatens to blockade all Iranian ports starting on Monday",
+        "Iran war live: US military says it will block Iranian traffic in Hormuz"
     ],
-    "updated": "2026-04-16 02:00:46.138743"
+    "updated": "2026-04-16 02:30:46.331723"
 }
