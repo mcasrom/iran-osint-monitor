@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 122,
+    "alertas": 120,
     "nivel": "rojo",
     "titulares": [
-        "The US blockade of Iran is a gamble. Will it work?",
-        "Deadline passes for US blockade of Hormuz, Iran threatens to retaliate against Gulf neighbours",
-        "US engages over 15 US warships in blockade of Iran — newspaper"
+        "US engages over 15 US warships in blockade of Iran — newspaper",
+        "Intervention into Strait of Hormuz security to cause escalation — Iran’s defense ministry",
+        "Trump says Iranian ships to be ‘eliminated’ as US naval blockade begins"
     ],
-    "updated": "2026-04-16 18:00:46.760395"
+    "updated": "2026-04-16 18:30:47.372062"
 }
