@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 152,
+    "alertas": 151,
     "nivel": "rojo",
     "titulares": [
-        "Oil prices spike above $103 after US announces Iran 'naval blockade'",
-        "IRGC: Military vessels approaching Hormuz constitute 'breach of ceasefire'",
-        "Iran parl. speaker warns Americans will be ‘nostalgic’ for cheap gas after naval blockade"
+        "Iran parl. speaker warns Americans will be ‘nostalgic’ for cheap gas after naval blockade",
+        "As US military set to blockade Iranian ports, Tehran says move ‘amounts to piracy’",
+        "Middle East war live: Iran says US naval blockade of Hormuz 'illegal' and 'piracy'"
     ],
-    "updated": "2026-04-16 07:30:51.404711"
+    "updated": "2026-04-16 08:00:47.619881"
 }
