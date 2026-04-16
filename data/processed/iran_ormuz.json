@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 115,
+    "alertas": 114,
     "nivel": "rojo",
     "titulares": [
-        "US and Iran keep talking as Trump's blockade takes effect",
         "US energy chief: Oil prices likely to rise until 'meaningful' traffic resumes through Hormuz",
-        "UN urges ‘all parties’ to respect navigation in Strait of Hormuz"
+        "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
+        "US positions warships in region as it moves to enforce naval blockade of Iran"
     ],
-    "updated": "2026-04-16 23:30:45.487700"
+    "updated": "2026-04-17 00:00:55.316055"
 }
