@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 136,
+    "alertas": 122,
     "nivel": "rojo",
     "titulares": [
-        "Starmer, Macron say UK and France to discuss ‘multinational mission’ to safeguard Hormuz",
-        "Netanyahu: Iran ceasefire could end at any moment, we back Trump’s blockade",
-        "With US military set to blockade Iranian ports, Tehran says move ‘amounts to piracy’"
+        "The US blockade of Iran is a gamble. Will it work?",
+        "Deadline passes for US blockade of Hormuz, Iran threatens to retaliate against Gulf neighbours",
+        "US engages over 15 US warships in blockade of Iran — newspaper"
     ],
-    "updated": "2026-04-16 17:30:44.335695"
+    "updated": "2026-04-16 18:00:46.760395"
 }
