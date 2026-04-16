@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 118,
+    "alertas": 117,
     "nivel": "rojo",
     "titulares": [
-        "Starmer announces talks to address the Strait of Hormuz crisis",
         "Hormuz becomes ‘nuclear weapon’ in Iran’s hands — Stubb",
-        "Trump claims Iran again expressed interest in deal after US naval blockade begins"
+        "Trump claims Iran again expressed interest in deal after US naval blockade begins",
+        "Iran prepared for US blockade, with dozens of its oil-loaded tankers being at sea — portal"
     ],
-    "updated": "2026-04-16 20:00:44.759206"
+    "updated": "2026-04-16 20:32:00.725907"
 }
