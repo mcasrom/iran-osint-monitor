@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 149,
+    "alertas": 148,
     "nivel": "rojo",
     "titulares": [
-        "What Iran is saying about US plan to blockade ports",
         "Oil prices surge as Trump vows to block the Strait of Hormuz",
-        "Trump orders blockade of Hormuz strait after Iran talks fail"
+        "Trump orders blockade of Hormuz strait after Iran talks fail",
+        "Trump move to blockade Hormuz risks complicating ties with China"
     ],
-    "updated": "2026-04-16 11:00:50.474990"
+    "updated": "2026-04-16 11:30:51.853125"
 }
