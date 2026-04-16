@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 113,
+    "alertas": 112,
     "nivel": "rojo",
     "titulares": [
-        "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
         "US positions warships in region as it moves to enforce naval blockade of Iran",
-        "Vance says talks with Iran made progress, defends shipping blockade"
+        "Vance says talks with Iran made progress, defends shipping blockade",
+        "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins"
     ],
-    "updated": "2026-04-17 01:01:02.124807"
+    "updated": "2026-04-17 01:31:01.607346"
 }
