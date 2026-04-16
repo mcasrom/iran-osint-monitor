@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 116,
+    "alertas": 115,
     "nivel": "rojo",
     "titulares": [
-        "Trump claims Iran again expressed interest in deal after US naval blockade begins",
         "Iran prepared for US blockade, with dozens of its oil-loaded tankers being at sea — portal",
-        "Trump vows US will 'eliminate' any Iranian ships defying blockade"
+        "Trump vows US will 'eliminate' any Iranian ships defying blockade",
+        "US and Iran keep talking as Trump's blockade takes effect"
     ],
-    "updated": "2026-04-16 21:00:51.307309"
+    "updated": "2026-04-16 21:30:44.650888"
 }
