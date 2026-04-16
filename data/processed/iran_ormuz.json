@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 115,
+    "alertas": 114,
     "nivel": "rojo",
     "titulares": [
-        "Trump vows US will 'eliminate' any Iranian ships defying blockade",
         "US and Iran keep talking as Trump's blockade takes effect",
-        "US energy chief: Oil prices likely to rise until 'meaningful' traffic resumes through Hormuz"
+        "US energy chief: Oil prices likely to rise until 'meaningful' traffic resumes through Hormuz",
+        "UN urges ‘all parties’ to respect navigation in Strait of Hormuz"
     ],
-    "updated": "2026-04-16 22:30:46.522234"
+    "updated": "2026-04-16 23:00:46.875136"
 }
