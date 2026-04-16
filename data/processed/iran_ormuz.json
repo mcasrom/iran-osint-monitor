@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 151,
+    "alertas": 149,
     "nivel": "rojo",
     "titulares": [
-        "As US military set to blockade Iranian ports, Tehran says move ‘amounts to piracy’",
-        "Middle East war live: Iran says US naval blockade of Hormuz 'illegal' and 'piracy'",
-        "IN BRIEF: Market reaction to US-announced blockade of Iran"
+        "IN BRIEF: Market reaction to US-announced blockade of Iran",
+        "What Iran is saying about US plan to blockade ports",
+        "Oil prices surge as Trump vows to block the Strait of Hormuz"
     ],
-    "updated": "2026-04-16 09:30:47.045953"
+    "updated": "2026-04-16 10:00:48.242232"
 }
