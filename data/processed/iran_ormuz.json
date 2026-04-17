@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 109,
+    "alertas": 108,
     "nivel": "rojo",
     "titulares": [
-        "Report: US to enforce Hormuz blockade with air power, using aircraft carriers",
         "Tehran warns of dangerous repercussions from US provocations in Strait of Hormuz",
-        "Iravani: US naval blockade gross violation of Iran's territorial integrity"
+        "Iravani: US naval blockade gross violation of Iran's territorial integrity",
+        "EU struggles to understand US stance on Hormuz Strait, top diplomat says"
     ],
-    "updated": "2026-04-17 02:31:00.746956"
+    "updated": "2026-04-17 03:01:02.070535"
 }
