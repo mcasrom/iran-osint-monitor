@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 99,
+    "alertas": 97,
     "nivel": "rojo",
     "titulares": [
-        "Sanctioned tankers transit Strait of Hormuz amid US blockade",
-        "France and UK to host virtual meeting regarding Strait of Hormuz on Friday",
-        "China slams US blockade on Iranian ports as ‘dangerous, irresponsible’"
+        "China slams US blockade on Iranian ports as ‘dangerous, irresponsible’",
+        "Press review: US blocks Hormuz Strait as Magyar win may reshape Russia-Hungary ties",
+        "Qatar says focus should be on ending fighting, not Strait of Hormuz"
     ],
-    "updated": "2026-04-17 12:01:03.236967"
+    "updated": "2026-04-17 12:31:02.389419"
 }
