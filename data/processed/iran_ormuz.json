@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 102,
+    "alertas": 100,
     "nivel": "rojo",
     "titulares": [
-        "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade",
-        "World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO",
-        "South Korea warns Hormuz tensions to prolong energy and supply shocks"
+        "UK’s finance minister criticises Washington as Hormuz disruption fuels economic worries",
+        "Sanctioned tankers transit Strait of Hormuz amid US blockade",
+        "France and UK to host virtual meeting regarding Strait of Hormuz on Friday"
     ],
-    "updated": "2026-04-17 11:00:59.985790"
+    "updated": "2026-04-17 11:31:01.113224"
 }
