@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 105,
+    "alertas": 104,
     "nivel": "rojo",
     "titulares": [
-        "China calls US blockade of Iranian ports ‘dangerous and irresponsible’",
         "US naval blockade begins as Trump vows will destroy Iran boats that approach",
-        "Saudi Arabia demands US stops blockade of Strait of Hormuz — newspaper"
+        "Saudi Arabia demands US stops blockade of Strait of Hormuz — newspaper",
+        "China demands Strait of Hormuz be unblocked, US has acted irresponsibly — MFA"
     ],
-    "updated": "2026-04-17 10:01:06.295013"
+    "updated": "2026-04-17 10:31:00.883233"
 }
