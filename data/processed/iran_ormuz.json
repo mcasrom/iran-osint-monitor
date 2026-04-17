@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 110,
+    "alertas": 109,
     "nivel": "rojo",
     "titulares": [
-        "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins",
         "Report: US to enforce Hormuz blockade with air power, using aircraft carriers",
-        "Tehran warns of dangerous repercussions from US provocations in Strait of Hormuz"
+        "Tehran warns of dangerous repercussions from US provocations in Strait of Hormuz",
+        "Iravani: US naval blockade gross violation of Iran's territorial integrity"
     ],
-    "updated": "2026-04-17 02:01:01.196592"
+    "updated": "2026-04-17 02:31:00.746956"
 }
