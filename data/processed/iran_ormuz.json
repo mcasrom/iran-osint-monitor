@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 100,
+    "alertas": 99,
     "nivel": "rojo",
     "titulares": [
-        "UK’s finance minister criticises Washington as Hormuz disruption fuels economic worries",
         "Sanctioned tankers transit Strait of Hormuz amid US blockade",
-        "France and UK to host virtual meeting regarding Strait of Hormuz on Friday"
+        "France and UK to host virtual meeting regarding Strait of Hormuz on Friday",
+        "China slams US blockade on Iranian ports as ‘dangerous, irresponsible’"
     ],
-    "updated": "2026-04-17 11:31:01.113224"
+    "updated": "2026-04-17 12:01:03.236967"
 }
