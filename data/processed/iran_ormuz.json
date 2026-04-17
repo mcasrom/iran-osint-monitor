@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 112,
+    "alertas": 110,
     "nivel": "rojo",
     "titulares": [
-        "US positions warships in region as it moves to enforce naval blockade of Iran",
-        "Vance says talks with Iran made progress, defends shipping blockade",
-        "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins"
+        "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins",
+        "Report: US to enforce Hormuz blockade with air power, using aircraft carriers",
+        "Tehran warns of dangerous repercussions from US provocations in Strait of Hormuz"
     ],
-    "updated": "2026-04-17 01:31:01.607346"
+    "updated": "2026-04-17 02:01:01.196592"
 }
