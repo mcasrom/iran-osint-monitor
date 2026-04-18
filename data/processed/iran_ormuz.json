@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 74,
+    "alertas": 75,
     "nivel": "rojo",
     "titulares": [
-        "Iranian proposal offers ships safe passage on Omani side of Hormuz, source says",
-        "Qatar emir, Trump discuss Hormuz tensions and regional escalation",
-        "Ten vessels trying to break through naval blockade of Iran turned around by US military"
+        "Ten vessels trying to break through naval blockade of Iran turned around by US military",
+        "US imposes new sanctions on Iran’s oil shipping network",
+        "US says destroyer turned back Iranian cargo vessel under Hormuz blockade"
     ],
-    "updated": "2026-04-18 23:01:02.639744"
+    "updated": "2026-04-18 23:30:59.423515"
 }
