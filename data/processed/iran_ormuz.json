@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 73,
+    "alertas": 75,
     "nivel": "rojo",
     "titulares": [
         "US blockade of the Strait of Hormuz: What do the numbers show?",
         "Hormuz traffic remains at a trickle as US blockade of Iranian ports appears to hold",
         "Container ship enters Iranian port of Larak, bypassing US blockade"
     ],
-    "updated": "2026-04-18 20:31:00.717056"
+    "updated": "2026-04-18 21:01:01.990693"
 }
