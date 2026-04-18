@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 74,
+    "alertas": 73,
     "nivel": "rojo",
     "titulares": [
-        "US leader says he is reopening Hormuz Strait for Iran",
         "Year-long IDF closure said to bolster settler violence by only barring Palestinians’ allies",
-        "US blockade of Hormuz pertains to Iran-linked ships only, not strait itself — media"
+        "US blockade of Hormuz pertains to Iran-linked ships only, not strait itself — media",
+        "Gaza aid flotilla sets sail from Barcelona in bid to break Israeli blockade"
     ],
-    "updated": "2026-04-18 15:31:00.817331"
+    "updated": "2026-04-18 16:01:56.989718"
 }
