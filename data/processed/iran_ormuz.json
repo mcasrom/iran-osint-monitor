@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 73,
+    "alertas": 72,
     "nivel": "rojo",
     "titulares": [
-        "US blockade of Iranian ports 'fully implemented'",
         "US claims no vessels moved through under Hormuz blockade",
-        "US blockade of the Strait of Hormuz: What do the numbers show?"
+        "US blockade of the Strait of Hormuz: What do the numbers show?",
+        "Hormuz traffic remains at a trickle as US blockade of Iranian ports appears to hold"
     ],
-    "updated": "2026-04-18 18:01:03.557030"
+    "updated": "2026-04-18 18:30:57.519420"
 }
