@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 75,
+    "alertas": 74,
     "nivel": "rojo",
     "titulares": [
-        "Trump: Xi will give me a 'big, fat, hug' for opening Strait of Hormuz",
         "US leader says he is reopening Hormuz Strait for Iran",
-        "Year-long IDF closure said to bolster settler violence by only barring Palestinians’ allies"
+        "Year-long IDF closure said to bolster settler violence by only barring Palestinians’ allies",
+        "US blockade of Hormuz pertains to Iran-linked ships only, not strait itself — media"
     ],
-    "updated": "2026-04-18 15:00:57.867130"
+    "updated": "2026-04-18 15:31:00.817331"
 }
