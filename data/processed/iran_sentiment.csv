@@ -1,4 +1,4 @@
 sentiment,count,avg_score
-negativo,497,-0.9811368209255533
-neutral,880,0.0
-positivo,180,0.9642000000000001
+negativo,360,-0.9804694444444444
+neutral,605,0.0
+positivo,147,0.9653061224489796
