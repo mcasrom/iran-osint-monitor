@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 75,
+    "alertas": 74,
     "nivel": "rojo",
     "titulares": [
-        "Ten vessels trying to break through naval blockade of Iran turned around by US military",
-        "US imposes new sanctions on Iran’s oil shipping network",
-        "US says destroyer turned back Iranian cargo vessel under Hormuz blockade"
+        "US says destroyer turned back Iranian cargo vessel under Hormuz blockade",
+        "White House refuses to say when naval blockade of Iran will end",
+        "UN chief’s initiative on Strait of Hormuz requires all parties’ consent — diplomat"
     ],
-    "updated": "2026-04-18 23:30:59.423515"
+    "updated": "2026-04-19 00:01:16.924475"
 }
