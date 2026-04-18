@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 76,
+    "alertas": 74,
     "nivel": "rojo",
     "titulares": [
-        "Container ship enters Iranian port of Larak, bypassing US blockade",
-        "Lavrov, Saudi foreign minister discuss situation in Strait of Hormuz",
-        "Could the US oil blockade snuff out the Cuban cigar?"
+        "Iranian proposal offers ships safe passage on Omani side of Hormuz, source says",
+        "Qatar emir, Trump discuss Hormuz tensions and regional escalation",
+        "Ten vessels trying to break through naval blockade of Iran turned around by US military"
     ],
-    "updated": "2026-04-18 22:01:01.172272"
+    "updated": "2026-04-18 22:30:59.271399"
 }
