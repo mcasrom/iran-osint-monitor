@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 82,
+    "alertas": 81,
     "nivel": "rojo",
     "titulares": [
-        "France lifts seizure of tanker Deyna after fine, vessel leaves territorial waters",
         "China condemns US Hormuz blockade as oil flows Disrupted",
-        "Press review: Pakistan advances US-Iran ceasefire as Russia joins Hormuz talks"
+        "Press review: Pakistan advances US-Iran ceasefire as Russia joins Hormuz talks",
+        "Arrest lifted: Deyna tanker leaves French territorial waters"
     ],
-    "updated": "2026-04-19 10:30:58.327601"
+    "updated": "2026-04-19 11:00:58.320719"
 }
