@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 77,
+    "alertas": 75,
     "nivel": "rojo",
     "titulares": [
-        "Middle East war live:  Iran threatens to disrupt Gulf trade in response to US naval blockade",
-        "Iran warns about 'dangerous consequences' of US actions targeting Persian Gulf, Hormuz Strait",
-        "Thailand asks Oman to help ensure safe passage of ships via Strait of Hormuz"
+        "Thailand asks Oman to help ensure safe passage of ships via Strait of Hormuz",
+        "New rabbinical school arises in Cincinnati as Hebrew Union College sued over closure",
+        "France lifts seizure of tanker Deyna after fine, vessel leaves territorial waters"
     ],
-    "updated": "2026-04-19 04:01:00.931279"
+    "updated": "2026-04-19 04:31:01.793924"
 }
