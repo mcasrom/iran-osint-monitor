@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 83,
+    "alertas": 82,
     "nivel": "rojo",
     "titulares": [
-        "China condemns US Hormuz blockade as oil flows Disrupted",
         "Press review: Pakistan advances US-Iran ceasefire as Russia joins Hormuz talks",
-        "Arrest lifted: Deyna tanker leaves French territorial waters"
+        "Arrest lifted: Deyna tanker leaves French territorial waters",
+        "US to blockade Iran ports 'as long as it takes': Hegseth"
     ],
-    "updated": "2026-04-19 12:30:57.978819"
+    "updated": "2026-04-19 13:00:57.790241"
 }
