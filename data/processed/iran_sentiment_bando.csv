@@ -1,10 +1,10 @@
 bando,sentiment,count
-neutros_regionales,negativo,92
-neutros_regionales,neutral,154
-neutros_regionales,positivo,35
+neutros_regionales,negativo,91
+neutros_regionales,neutral,157
+neutros_regionales,positivo,36
 pro_iran_eje,negativo,84
-pro_iran_eje,neutral,142
-pro_iran_eje,positivo,43
+pro_iran_eje,neutral,140
+pro_iran_eje,positivo,42
 pro_occidente,negativo,98
-pro_occidente,neutral,142
-pro_occidente,positivo,41
+pro_occidente,neutral,146
+pro_occidente,positivo,40
