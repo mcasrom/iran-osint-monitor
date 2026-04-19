@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 84,
+    "alertas": 83,
     "nivel": "rojo",
     "titulares": [
-        "US to blockade Iran ports 'as long as it takes': Hegseth",
         "US not counting on allies to join operations in Strait of Hormuz — Pentagon chief",
-        "US Army ready to use force against ships attempting to breach blockade of Iran"
+        "US Army ready to use force against ships attempting to breach blockade of Iran",
+        "Hegseth says US blockade to continue, ready for new attacks on Iran energy"
     ],
-    "updated": "2026-04-19 15:01:01.741987"
+    "updated": "2026-04-19 15:31:00.778813"
 }
