@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 82,
+    "alertas": 81,
     "nivel": "rojo",
     "titulares": [
-        "Hegseth says US blockade to continue, ready for new attacks on Iran energy",
         "Hegseth says US to keep Iran port blockade in Hormuz, ready for new attacks",
-        "US general clarifies Iranian ports under blockade, not Strait of Hormuz"
+        "US general clarifies Iranian ports under blockade, not Strait of Hormuz",
+        "Pentagon chief Hegseth warns Iran blockade to last ‘as long as takes’"
     ],
-    "updated": "2026-04-19 16:00:59.008216"
+    "updated": "2026-04-19 16:30:54.608334"
 }
