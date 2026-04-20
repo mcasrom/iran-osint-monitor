@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 90,
+    "alertas": 89,
     "nivel": "rojo",
     "titulares": [
-        "No legal basis for imposing fees in Strait of Hormuz — head of UN maritime agency",
         "Europe has capacity to clear mines in Hormuz Strait, French defence minister says",
-        "Strait of Hormuz: Macron, Starmer meet at Elysée Palace"
+        "Strait of Hormuz: Macron, Starmer meet at Elysée Palace",
+        "Oil prices plunge as Iran says Strait 'open'"
     ],
-    "updated": "2026-04-20 10:31:06.232857"
+    "updated": "2026-04-20 11:01:00.398100"
 }
