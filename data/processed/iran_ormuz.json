@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 89,
+    "alertas": 88,
     "nivel": "rojo",
     "titulares": [
-        "Europe has capacity to clear mines in Hormuz Strait, French defence minister says",
         "Strait of Hormuz: Macron, Starmer meet at Elysée Palace",
-        "Oil prices plunge as Iran says Strait 'open'"
+        "Oil prices plunge as Iran says Strait 'open'",
+        "Iran reimposes Strait of Hormuz restrictions, accuses US of violating deal to reopen waterway"
     ],
-    "updated": "2026-04-20 11:01:00.398100"
+    "updated": "2026-04-20 11:30:59.173718"
 }
