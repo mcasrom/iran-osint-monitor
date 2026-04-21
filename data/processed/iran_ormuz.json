@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 86,
+    "alertas": 85,
     "nivel": "rojo",
     "titulares": [
-        "Iran rejects EU call to keep Hormuz open",
         "Iran war live: Tehran says no date set for US talks, Hormuz Strait closed",
-        "Strait of Hormuz: Open, closed, open, closed - What's actually happening?"
+        "Strait of Hormuz: Open, closed, open, closed - What's actually happening?",
+        "Iran to prioritise ships paying 'costs of security' in Strait of Hormuz"
     ],
-    "updated": "2026-04-22 00:01:25.057743"
+    "updated": "2026-04-22 00:33:09.938703"
 }
