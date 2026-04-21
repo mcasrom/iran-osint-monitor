@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 90,
+    "alertas": 88,
     "nivel": "rojo",
     "titulares": [
-        "Iran’s closure of Hormuz forced US, Israel to accept Lebanon ceasefire: Hezbollah chief",
-        "Iran says US backed down after Strait of Hormuz minesweeper threat",
-        "Iran closes Strait of Hormuz until US naval blockade fully lifted — IRGC"
+        "Iran closes Strait of Hormuz until US naval blockade fully lifted — IRGC",
+        "Iran warns ships near Hormuz will be treated as targets",
+        "Qalibaf warned US in Islamabad: If minesweeper in Strait of Hormuz moved an inch, Iran will fire"
     ],
-    "updated": "2026-04-21 20:31:25.009521"
+    "updated": "2026-04-21 21:00:57.978327"
 }
