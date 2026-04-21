@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 96,
+    "alertas": 93,
     "nivel": "rojo",
     "titulares": [
-        "Iran closes Strait of Hormuz again over US blockade of its ports",
-        "Gunfire reported by vessel in Strait of Hormuz",
-        "US forces turn 23 vessels back to Iran since blockade began, says military"
+        "Strait of Hormuz : Iran to block transit until US lifts its blockade",
+        "Middle East : Fragile US-Iran talks hinge on nuclear and Hormuz disputes",
+        "Iran reimposes Hormuz closure after US maintains blockade; IRGC gunboats fire at tanker"
     ],
-    "updated": "2026-04-21 14:01:01.498250"
+    "updated": "2026-04-21 14:31:03.919936"
 }
