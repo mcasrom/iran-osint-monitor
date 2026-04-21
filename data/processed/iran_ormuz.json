@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 104,
+    "alertas": 105,
     "nivel": "rojo",
     "titulares": [
         "Oil prices plunge as Iran says Strait 'open'",
         "Iran reimposes Strait of Hormuz restrictions, accuses US of violating deal to reopen waterway",
         "Iran closes Hormuz Strait again over US blockade with ships mid-transit"
     ],
-    "updated": "2026-04-21 01:31:15.768595"
+    "updated": "2026-04-21 02:01:13.835835"
 }
