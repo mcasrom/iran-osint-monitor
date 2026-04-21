@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 91,
+    "alertas": 90,
     "nivel": "rojo",
     "titulares": [
-        "Trump: Iran ‘got a little cute’ by blocking Hormuz again, but talks going ‘really well’",
         "Iran’s closure of Hormuz forced US, Israel to accept Lebanon ceasefire: Hezbollah chief",
-        "Iran says US backed down after Strait of Hormuz minesweeper threat"
+        "Iran says US backed down after Strait of Hormuz minesweeper threat",
+        "Iran closes Strait of Hormuz until US naval blockade fully lifted — IRGC"
     ],
-    "updated": "2026-04-21 20:03:05.961650"
+    "updated": "2026-04-21 20:31:25.009521"
 }
