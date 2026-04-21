@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 116,
+    "alertas": 96,
     "nivel": "rojo",
     "titulares": [
-        "Oil prices plunge as Iran says Strait 'open'",
-        "Iran reimposes Strait of Hormuz restrictions, accuses US of violating deal to reopen waterway",
-        "Iran closes Hormuz Strait again over US blockade with ships mid-transit"
+        "Iran closes Strait of Hormuz again over US blockade of its ports",
+        "Gunfire reported by vessel in Strait of Hormuz",
+        "US forces turn 23 vessels back to Iran since blockade began, says military"
     ],
-    "updated": "2026-04-21 13:31:00.836356"
+    "updated": "2026-04-21 14:01:01.498250"
 }
