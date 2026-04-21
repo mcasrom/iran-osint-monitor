@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 88,
+    "alertas": 87,
     "nivel": "rojo",
     "titulares": [
-        "Iran closes Strait of Hormuz until US naval blockade fully lifted — IRGC",
-        "Iran warns ships near Hormuz will be treated as targets",
-        "Qalibaf warned US in Islamabad: If minesweeper in Strait of Hormuz moved an inch, Iran will fire"
+        "Qalibaf warned US in Islamabad: If minesweeper in Strait of Hormuz moved an inch, Iran will fire",
+        "Iran closes Strait of Hormuz after US retains blockade in breach of ceasefire conditions: IRGC Navy",
+        "Strait of Hormuz closed again, Iran says, as ships attacked"
     ],
-    "updated": "2026-04-21 21:00:57.978327"
+    "updated": "2026-04-21 21:31:16.878704"
 }
