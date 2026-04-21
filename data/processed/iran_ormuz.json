@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 92,
+    "alertas": 91,
     "nivel": "rojo",
     "titulares": [
-        "Iran reimposes Hormuz closure after US maintains blockade; IRGC gunboats fire at ships",
         "Trump: Iran ‘got a little cute’ by blocking Hormuz again, but talks going ‘really well’",
-        "Iran’s closure of Hormuz forced US, Israel to accept Lebanon ceasefire: Hezbollah chief"
+        "Iran’s closure of Hormuz forced US, Israel to accept Lebanon ceasefire: Hezbollah chief",
+        "Iran says US backed down after Strait of Hormuz minesweeper threat"
     ],
-    "updated": "2026-04-21 19:31:11.443572"
+    "updated": "2026-04-21 20:03:05.961650"
 }
