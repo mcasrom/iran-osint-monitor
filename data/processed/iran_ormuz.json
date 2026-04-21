@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 87,
+    "alertas": 86,
     "nivel": "rojo",
     "titulares": [
-        "Strait of Hormuz closed again, Iran says, as ships attacked",
-        "Iran closed Strait of Hormuz as US maintains blockade in violation of ceasefire terms: IRGC Navy",
-        "Iran military orders Indian ship to abort Strait of Hormuz passage"
+        "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’",
+        "Iran rejects EU call to keep Hormuz open",
+        "Iran war live: Tehran says no date set for US talks, Hormuz Strait closed"
     ],
-    "updated": "2026-04-21 23:01:14.663351"
+    "updated": "2026-04-21 23:31:13.215744"
 }
