@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 90,
+    "alertas": 92,
     "nivel": "rojo",
     "titulares": [
-        "Trump says US seized Iran-flagged ship trying to get past Hormuz blockade",
-        "Trump says US seized ship trying to breach Iran blockade",
-        "Iran says disputes will persist while US blockade remains"
+        "Tehran will never surrender control of Strait of Hormuz: Iranian MP",
+        "US says it seized Iranian ship that tried to break blockade; Tehran vows to retaliate",
+        "French commercial vessel in Strait of Hormuz fired at, says report"
     ],
-    "updated": "2026-04-22 21:01:19.041044"
+    "updated": "2026-04-23 01:00:50.802641"
 }
