@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 92,
+    "alertas": 91,
     "nivel": "rojo",
     "titulares": [
-        "Tehran will never surrender control of Strait of Hormuz: Iranian MP",
         "US says it seized Iranian ship that tried to break blockade; Tehran vows to retaliate",
-        "French commercial vessel in Strait of Hormuz fired at, says report"
+        "French commercial vessel in Strait of Hormuz fired at, says report",
+        "Providing security in Strait of Hormuz not free: Iran's VP"
     ],
-    "updated": "2026-04-23 01:00:50.802641"
+    "updated": "2026-04-23 01:31:15.450453"
 }
