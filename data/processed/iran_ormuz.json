@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 87,
+    "alertas": 86,
     "nivel": "rojo",
     "titulares": [
-        "Houthis threaten to block Bab el-Mandeb Strait if US hinders peace",
-        "Iran warns Hormuz will stay shut unless US lifts siege on its ports",
-        "Iran asserts leverage in Hormuz ahead of new round of talks"
+        "Iran asserts leverage in Hormuz ahead of new round of talks",
+        "Iranian armed forces turn back two oil tankers in Strait of Hormuz: Report",
+        "Iran says US blockade of ports unlawful, criminal, and violation of ceasefire"
     ],
-    "updated": "2026-04-22 14:01:24.514836"
+    "updated": "2026-04-22 14:31:02.746665"
 }
