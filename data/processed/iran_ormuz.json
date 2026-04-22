@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 86,
+    "alertas": 85,
     "nivel": "rojo",
     "titulares": [
-        "Iran asserts leverage in Hormuz ahead of new round of talks",
         "Iranian armed forces turn back two oil tankers in Strait of Hormuz: Report",
-        "Iran says US blockade of ports unlawful, criminal, and violation of ceasefire"
+        "Iran says US blockade of ports unlawful, criminal, and violation of ceasefire",
+        "Iran to decide on talks with US only after naval blockade is lifted — agency"
     ],
-    "updated": "2026-04-22 14:31:02.746665"
+    "updated": "2026-04-22 15:01:15.926843"
 }
