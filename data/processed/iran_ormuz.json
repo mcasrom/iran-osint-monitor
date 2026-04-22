@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 82,
+    "alertas": 81,
     "nivel": "rojo",
     "titulares": [
-        "Middle East war live: Strait of Hormuz stays shut as Iran reports 'progress' in US talks",
         "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse",
-        "Iran war live: Hormuz Strait ‘closed’ as Tehran says no date for US talks"
+        "Iran war live: Hormuz Strait ‘closed’ as Tehran says no date for US talks",
+        "Iran turns back two tankers attempting to cross Strait of Hormuz"
     ],
-    "updated": "2026-04-22 10:01:02.680959"
+    "updated": "2026-04-22 10:30:52.495844"
 }
