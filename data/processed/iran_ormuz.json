@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 85,
+    "alertas": 84,
     "nivel": "rojo",
     "titulares": [
-        "Iran war live: Tehran says no date set for US talks, Hormuz Strait closed",
         "Strait of Hormuz: Open, closed, open, closed - What's actually happening?",
-        "Iran to prioritise ships paying 'costs of security' in Strait of Hormuz"
+        "Iran to prioritise ships paying 'costs of security' in Strait of Hormuz",
+        "Ghalibaf says others cannot pass Hormuz if Iran blocked, control rests with Tehran"
     ],
-    "updated": "2026-04-22 02:00:57.527662"
+    "updated": "2026-04-22 02:31:17.540028"
 }
