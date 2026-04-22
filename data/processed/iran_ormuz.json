@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 84,
+    "alertas": 83,
     "nivel": "rojo",
     "titulares": [
-        "Video: Trump says Iran cannot 'blackmail' US over strait of Hormuz",
         "Iran parliament speaker touts ‘progress’ in US talks, but Strait of Hormuz still shut",
-        "Ansarullah: No one can open up Bab el-Mandeb Strait once shut"
+        "Ansarullah: No one can open up Bab el-Mandeb Strait once shut",
+        "Middle East war live: Strait of Hormuz stays shut as Iran reports 'progress' in US talks"
     ],
-    "updated": "2026-04-22 08:30:55.651977"
+    "updated": "2026-04-22 09:03:05.158896"
 }
