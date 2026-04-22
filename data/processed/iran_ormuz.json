@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 81,
+    "alertas": 80,
     "nivel": "rojo",
     "titulares": [
-        "Iran war live: Hormuz Strait ‘closed’ as Tehran says no date for US talks",
         "Iran turns back two tankers attempting to cross Strait of Hormuz",
-        "Houthis threaten to block Bab el-Mandeb Strait if US hinders peace"
+        "Houthis threaten to block Bab el-Mandeb Strait if US hinders peace",
+        "Iran warns Hormuz will stay shut unless US lifts siege on its ports"
     ],
-    "updated": "2026-04-22 11:31:16.727560"
+    "updated": "2026-04-22 12:01:19.053024"
 }
