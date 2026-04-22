@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 90,
+    "alertas": 89,
     "nivel": "rojo",
     "titulares": [
-        "Iranian armed forces turn back two oil tankers in Strait of Hormuz: Report",
         "Iran says US blockade of ports unlawful, criminal, and violation of ceasefire",
-        "Iran to decide on talks with US only after naval blockade is lifted — agency"
+        "Iran to decide on talks with US only after naval blockade is lifted — agency",
+        "What to know about US-Iran standoff over the Strait of Hormuz"
     ],
-    "updated": "2026-04-22 15:30:55.188796"
+    "updated": "2026-04-22 16:01:06.337228"
 }
