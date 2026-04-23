@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 92,
+    "alertas": 90,
     "nivel": "rojo",
     "titulares": [
-        "Pakistan tells Trump blockade of Iran hampering efforts to resume talks",
-        "Xi calls for measures to ensure free navigation in Strait of Hormuz",
-        "Powerful states are trying to sabotage decarbonisation of shipping"
+        "US military blockade redirected 27 vessels since blockade",
+        "Trump declines to open Strait of Hormuz until deal with Iran signed",
+        "Russia calls US naval blockade of Iran unlawful, urges continued talks"
     ],
-    "updated": "2026-04-23 15:31:06.038127"
+    "updated": "2026-04-23 16:03:07.064017"
 }
