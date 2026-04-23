@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 90,
+    "alertas": 91,
     "nivel": "rojo",
     "titulares": [
         "US military blockade redirected 27 vessels since blockade",
         "Trump declines to open Strait of Hormuz until deal with Iran signed",
         "Russia calls US naval blockade of Iran unlawful, urges continued talks"
     ],
-    "updated": "2026-04-23 16:03:07.064017"
+    "updated": "2026-04-23 16:31:22.670527"
 }
