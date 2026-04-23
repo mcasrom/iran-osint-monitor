@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 93,
+    "alertas": 95,
     "nivel": "rojo",
     "titulares": [
         "Russia calls US naval blockade of Iran unlawful, urges continued talks",
         "Cuba confirms meeting with US officials on island, wants energy blockade lifted",
         "Iran says cargo ship passes through Strait of Hormuz amid tensions"
     ],
-    "updated": "2026-04-23 20:31:11.572104"
+    "updated": "2026-04-23 21:01:25.508985"
 }
