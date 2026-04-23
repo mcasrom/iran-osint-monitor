@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 93,
+    "alertas": 92,
     "nivel": "rojo",
     "titulares": [
-        "Over 20 ships cross Strait of Hormuz on April 18 — Reuters",
         "Trump says he will consider advice from Pakistan's Munir on Hormuz blockade, Pakistani source says",
-        "IMO calls for not passing Strait of Hormuz without security guarantees"
+        "IMO calls for not passing Strait of Hormuz without security guarantees",
+        "Press review: Hormuz crisis risks talks as EU rehearses collective defense without NATO"
     ],
-    "updated": "2026-04-23 09:02:17.686989"
+    "updated": "2026-04-23 09:31:16.106107"
 }
