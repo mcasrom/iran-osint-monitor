@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 92,
+    "alertas": 93,
     "nivel": "rojo",
     "titulares": [
-        "Trump declines to open Strait of Hormuz until deal with Iran signed",
         "Russia calls US naval blockade of Iran unlawful, urges continued talks",
-        "Cuba confirms meeting with US officials on island, wants energy blockade lifted"
+        "Cuba confirms meeting with US officials on island, wants energy blockade lifted",
+        "Iran says cargo ship passes through Strait of Hormuz amid tensions"
     ],
-    "updated": "2026-04-23 20:00:56.914175"
+    "updated": "2026-04-23 20:31:11.572104"
 }
