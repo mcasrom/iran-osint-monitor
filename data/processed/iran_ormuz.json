@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 90,
+    "alertas": 92,
     "nivel": "rojo",
     "titulares": [
         "Pakistan tells Trump blockade of Iran hampering efforts to resume talks",
         "Xi calls for measures to ensure free navigation in Strait of Hormuz",
         "Powerful states are trying to sabotage decarbonisation of shipping"
     ],
-    "updated": "2026-04-23 15:00:53.169242"
+    "updated": "2026-04-23 15:31:06.038127"
 }
