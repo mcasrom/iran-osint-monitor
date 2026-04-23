@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 94,
+    "alertas": 92,
     "nivel": "rojo",
     "titulares": [
-        "US says it seized Iranian ship that tried to break blockade; Tehran vows to retaliate",
-        "French commercial vessel in Strait of Hormuz fired at, says report",
-        "Providing security in Strait of Hormuz not free: Iran's VP"
+        "Providing security in Strait of Hormuz not free: Iran's VP",
+        "Iran ensures safe passage through Hormuz, Iranian envoy says",
+        "Video: US attacks and seizes Iranian cargo ship near Hormuz"
     ],
-    "updated": "2026-04-23 03:01:09.077577"
+    "updated": "2026-04-23 03:31:35.279402"
 }
