@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 92,
+    "alertas": 90,
     "nivel": "rojo",
     "titulares": [
-        "Thirteen vessels passed through Hormuz on April 20",
-        "Shipping traffic through Hormuz remains mostly halted",
-        "US blockade of Strait of Hormuz not to last long as it carries risks — expert"
+        "US blockade of Strait of Hormuz not to last long as it carries risks — expert",
+        "Pentagon reports boarding stateless tanker in Indian-Pacific",
+        "Trump says US fully controls Strait of Hormuz"
     ],
-    "updated": "2026-04-24 14:31:07.324055"
+    "updated": "2026-04-24 15:01:28.111146"
 }
