@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 90,
+    "alertas": 89,
     "nivel": "rojo",
     "titulares": [
-        "Vance to reportedly depart Tuesday for Pakistan as Iran’s top negotiator blasts US blockade",
         "Cuba confirms talks with US officials, urges end to Trump energy blockade",
-        "Cuba confirms talks with US officials, wants end to Trump’s energy blockade"
+        "Cuba confirms talks with US officials, wants end to Trump’s energy blockade",
+        "Vance to reportedly depart today for Pakistan as Iran’s top negotiator blasts US blockade"
     ],
-    "updated": "2026-04-24 03:30:55.113651"
+    "updated": "2026-04-24 04:01:10.560716"
 }
