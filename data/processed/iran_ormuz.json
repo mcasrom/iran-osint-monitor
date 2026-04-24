@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 92,
+    "alertas": 91,
     "nivel": "rojo",
     "titulares": [
-        "Scam messages offering ships safe transit through Hormuz, security firm warns",
         "UN maritime agency urges help for seafarers stranded in Hormuz",
-        "Strait of Hormuz: How a threat became a playbook"
+        "Strait of Hormuz: How a threat became a playbook",
+        "Thirteen vessels passed through Hormuz on April 20"
     ],
-    "updated": "2026-04-24 08:30:59.689402"
+    "updated": "2026-04-24 09:00:55.981301"
 }
