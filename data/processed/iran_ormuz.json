@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 93,
+    "alertas": 92,
     "nivel": "rojo",
     "titulares": [
-        "UN maritime agency urges help for seafarers stranded in Hormuz",
         "Strait of Hormuz: How a threat became a playbook",
-        "Thirteen vessels passed through Hormuz on April 20"
+        "Thirteen vessels passed through Hormuz on April 20",
+        "Shipping traffic through Hormuz remains mostly halted"
     ],
-    "updated": "2026-04-24 12:31:16.195391"
+    "updated": "2026-04-24 13:02:26.339847"
 }
