@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 90,
+    "alertas": 89,
     "nivel": "rojo",
     "titulares": [
-        "Vance to reportedly depart today for Pakistan as Iran’s top negotiator blasts US blockade",
         "UN chief urges freedom of navigation in Hormuz amid tensions",
-        "Scam messages offering ships safe transit through Hormuz, security firm warns"
+        "Scam messages offering ships safe transit through Hormuz, security firm warns",
+        "UN maritime agency urges help for seafarers stranded in Hormuz"
     ],
-    "updated": "2026-04-24 06:31:10.701638"
+    "updated": "2026-04-24 07:01:31.474816"
 }
