@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 92,
+    "alertas": 90,
     "nivel": "rojo",
     "titulares": [
-        "Trump says US will not lift Hormuz blockade until deal made with Iran",
-        "Iran war live: Tehran spurns talks under threats; Trump says blockade stays",
-        "Vance to reportedly depart Tuesday for Pakistan as Iran’s top negotiator blasts US blockade"
+        "Vance to reportedly depart Tuesday for Pakistan as Iran’s top negotiator blasts US blockade",
+        "Cuba confirms talks with US officials, urges end to Trump energy blockade",
+        "Cuba confirms talks with US officials, wants end to Trump’s energy blockade"
     ],
-    "updated": "2026-04-24 03:01:09.071744"
+    "updated": "2026-04-24 03:30:55.113651"
 }
