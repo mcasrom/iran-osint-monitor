@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 92,
+    "alertas": 91,
     "nivel": "rojo",
     "titulares": [
-        "Trump announces Iran ceasefire extension but says blockade remains",
-        "IMO says seafarers killed as attacks on Gulf shipping mount",
-        "Trump announces unilateral extension of ceasefire with Iran amid illegal blockade"
+        "Trump announces unilateral extension of ceasefire with Iran amid illegal blockade",
+        "UK hosts talks to plan mission to reopen Hormuz",
+        "Trump says Hormuz 'totally BLOCKADED’ by US, claims Iran wants it open"
     ],
-    "updated": "2026-04-24 23:01:11.974512"
+    "updated": "2026-04-24 23:31:10.212778"
 }
