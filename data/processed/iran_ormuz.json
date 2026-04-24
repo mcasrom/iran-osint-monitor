@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 91,
+    "alertas": 90,
     "nivel": "rojo",
     "titulares": [
-        "Trump announces unilateral extension of ceasefire with Iran amid illegal blockade",
         "UK hosts talks to plan mission to reopen Hormuz",
-        "Trump says Hormuz 'totally BLOCKADED’ by US, claims Iran wants it open"
+        "Trump says Hormuz 'totally BLOCKADED’ by US, claims Iran wants it open",
+        "US leader says deal with Iran impossible if naval blockade lifted"
     ],
-    "updated": "2026-04-24 23:31:10.212778"
+    "updated": "2026-04-25 00:01:31.747783"
 }
