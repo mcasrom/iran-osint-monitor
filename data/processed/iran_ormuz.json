@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 95,
+    "alertas": 94,
     "nivel": "rojo",
     "titulares": [
-        "Iran says cargo ship passes through Strait of Hormuz amid tensions",
         "Iran’s top negotiator threatens ‘to reveal new cards on battlefield’ while blasting US blockade",
-        "Iran war live: Tehran rejects talks under threat; Trump says blockade stays"
+        "Iran war live: Tehran rejects talks under threat; Trump says blockade stays",
+        "Trump says US will not lift Hormuz blockade until deal made with Iran"
     ],
-    "updated": "2026-04-24 01:31:07.473531"
+    "updated": "2026-04-24 02:01:08.945352"
 }
