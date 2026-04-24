@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 93,
+    "alertas": 92,
     "nivel": "rojo",
     "titulares": [
-        "Trump says US fully controls Strait of Hormuz",
-        "Video: US forces board sanctioned tanker in Asia Pacific",
-        "US forces 28 ships to turn tail since its blockade of Iranian ports"
+        "US forces 28 ships to turn tail since its blockade of Iranian ports",
+        "US forces detain Iran-linked tanker Tifani with ceasefire talks on edge",
+        "Trump announces extending Iran ceasefire but says blockade remains"
     ],
-    "updated": "2026-04-24 17:00:56.261379"
+    "updated": "2026-04-24 17:32:13.661079"
 }
