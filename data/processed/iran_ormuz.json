@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 88,
+    "alertas": 87,
     "nivel": "rojo",
     "titulares": [
-        "After extending truce, Trump says he wants Hormuz to stay closed so Iran can’t tax ships traversing strait",
         "Trump claims Iran ‘collapsing financially’ amid Hormuz standoff",
-        "Middle East war live: US prolongs ceasefire but blockade continues"
+        "Middle East war live: US prolongs ceasefire but blockade continues",
+        "After extending truce, Trump claims Iran ‘collapsing financially’ over Hormuz closure"
     ],
-    "updated": "2026-04-25 05:01:11.707072"
+    "updated": "2026-04-25 05:31:50.895926"
 }
