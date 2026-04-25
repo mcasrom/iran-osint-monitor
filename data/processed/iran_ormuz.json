@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 78,
+    "alertas": 77,
     "nivel": "rojo",
     "titulares": [
-        "Nigeria faces jet fuel shortage as Strait of Hormuz disruption bites",
         "Trump says Iran ‘collapsing’ over Hormuz blockade as IRGC attacks ships in key waterway",
-        "Iran’s FM says current situation in Strait of Hormuz direct result of US violations"
+        "Iran’s FM says current situation in Strait of Hormuz direct result of US violations",
+        "Military officers from 30 countries to discuss preparations for Hormuz security mission"
     ],
-    "updated": "2026-04-25 14:01:39.101511"
+    "updated": "2026-04-25 14:31:13.688095"
 }
