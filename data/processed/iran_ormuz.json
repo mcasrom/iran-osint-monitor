@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 83,
+    "alertas": 82,
     "nivel": "rojo",
     "titulares": [
-        "Trump says Iran ‘collapsing’ over Hormuz blockade, as ships attacked in key waterway",
         "🔴 Middle East war live: Iran seizes two vessels in Strait of Hormuz, state media says",
-        "Trump says Iran ‘collapsing’ over Hormuz blockade as it attacks ships in key waterway"
+        "Trump says Iran ‘collapsing’ over Hormuz blockade as it attacks ships in key waterway",
+        "Iran’s naval forces seize two vessels trying to cross Strait of Hormuz"
     ],
-    "updated": "2026-04-25 12:31:08.428933"
+    "updated": "2026-04-25 13:02:24.625113"
 }
