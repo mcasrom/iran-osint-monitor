@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 72,
+    "alertas": 71,
     "nivel": "rojo",
     "titulares": [
-        "US and Iran in blockade standoff as Pakistan pushes for talks",
         "Iran seizes ships in Strait of Hormuz after Trump halts attacks",
-        "Liberian ship fired on in Strait of Hormuz"
+        "Liberian ship fired on in Strait of Hormuz",
+        "Food security: Why UN chief Guterres’s plan to get fertiliser flowing in Hormuz is stalling"
     ],
-    "updated": "2026-04-25 18:01:38.218468"
+    "updated": "2026-04-25 18:30:56.747849"
 }
