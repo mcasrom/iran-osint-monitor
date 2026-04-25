@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 85,
+    "alertas": 84,
     "nivel": "rojo",
     "titulares": [
-        "Container ship attacked in Strait of Hormuz — UKMTO",
         "Middle East war live: Three ships attacked in Strait of Hormuz as US prolongs ceasefire",
-        "Middle East war live: Iran seizes two vessels in Strait of Hormuz, state media says"
+        "Middle East war live: Iran seizes two vessels in Strait of Hormuz, state media says",
+        "IRGC seizes Israeli ship, second vessel in Strait of Hormuz"
     ],
-    "updated": "2026-04-25 09:02:25.141359"
+    "updated": "2026-04-25 09:30:54.692049"
 }
