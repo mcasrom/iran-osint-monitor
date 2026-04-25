@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 77,
+    "alertas": 73,
     "nivel": "rojo",
     "titulares": [
-        "Trump says Iran ‘collapsing’ over Hormuz blockade as IRGC attacks ships in key waterway",
-        "Iran’s FM says current situation in Strait of Hormuz direct result of US violations",
-        "Military officers from 30 countries to discuss preparations for Hormuz security mission"
+        "Data shows Iran bypassing US blockade despite Trump’s claims of its success",
+        "Food security: Why Guterres’s UN plan to get fertiliser flowing in Hormuz is stalling",
+        "IRIB poll: Vast majority of Iranians reject curbs on missiles, uranium, and Strait of Hormuz control"
     ],
-    "updated": "2026-04-25 14:31:13.688095"
+    "updated": "2026-04-25 15:30:51.800900"
 }
