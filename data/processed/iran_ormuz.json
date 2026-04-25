@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 75,
+    "alertas": 74,
     "nivel": "rojo",
     "titulares": [
-        "Data shows Iran bypassing US blockade despite Trump’s claims of its success",
         "Food security: Why Guterres’s UN plan to get fertiliser flowing in Hormuz is stalling",
-        "IRIB poll: Vast majority of Iranians reject curbs on missiles, uranium, and Strait of Hormuz control"
+        "IRIB poll: Vast majority of Iranians reject curbs on missiles, uranium, and Strait of Hormuz control",
+        "US and Iran in blockade standoff as Pakistan pushes for talks"
     ],
-    "updated": "2026-04-25 16:31:17.202947"
+    "updated": "2026-04-25 17:01:00.406515"
 }
