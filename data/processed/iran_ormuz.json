@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 74,
+    "alertas": 72,
     "nivel": "rojo",
     "titulares": [
-        "Food security: Why Guterres’s UN plan to get fertiliser flowing in Hormuz is stalling",
-        "IRIB poll: Vast majority of Iranians reject curbs on missiles, uranium, and Strait of Hormuz control",
-        "US and Iran in blockade standoff as Pakistan pushes for talks"
+        "US and Iran in blockade standoff as Pakistan pushes for talks",
+        "Iran seizes ships in Strait of Hormuz after Trump halts attacks",
+        "Liberian ship fired on in Strait of Hormuz"
     ],
-    "updated": "2026-04-25 17:01:00.406515"
+    "updated": "2026-04-25 17:31:08.773325"
 }
