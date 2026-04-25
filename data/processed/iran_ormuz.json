@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 87,
+    "alertas": 86,
     "nivel": "rojo",
     "titulares": [
-        "Middle East war live: US prolongs ceasefire but blockade continues",
         "After extending truce, Trump claims Iran ‘collapsing financially’ over Hormuz closure",
-        "Iran ready for talks in Islamabad if US lifts blockade, UN envoy says"
+        "Iran ready for talks in Islamabad if US lifts blockade, UN envoy says",
+        "Container ship attacked in Strait of Hormuz — UKMTO"
     ],
-    "updated": "2026-04-25 07:01:23.206095"
+    "updated": "2026-04-25 07:31:19.725106"
 }
