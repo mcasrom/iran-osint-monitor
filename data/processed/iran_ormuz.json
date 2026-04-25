@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 84,
+    "alertas": 83,
     "nivel": "rojo",
     "titulares": [
-        "Middle East war live: Three ships attacked in Strait of Hormuz as US prolongs ceasefire",
         "Middle East war live: Iran seizes two vessels in Strait of Hormuz, state media says",
-        "IRGC seizes Israeli ship, second vessel in Strait of Hormuz"
+        "IRGC seizes Israeli ship, second vessel in Strait of Hormuz",
+        "Trump says Iran ‘collapsing’ over Hormuz blockade, as ships attacked in key waterway"
     ],
-    "updated": "2026-04-25 11:00:57.682679"
+    "updated": "2026-04-25 11:30:54.051084"
 }
