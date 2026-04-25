@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 90,
+    "alertas": 89,
     "nivel": "rojo",
     "titulares": [
-        "UK hosts talks to plan mission to reopen Hormuz",
         "Trump says Hormuz 'totally BLOCKADED’ by US, claims Iran wants it open",
-        "US leader says deal with Iran impossible if naval blockade lifted"
+        "US leader says deal with Iran impossible if naval blockade lifted",
+        "Iran’s UN envoy says received signs US ready to end blockade"
     ],
-    "updated": "2026-04-25 02:31:12.813856"
+    "updated": "2026-04-25 03:02:25.422364"
 }
