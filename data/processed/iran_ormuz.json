@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 86,
+    "alertas": 84,
     "nivel": "rojo",
     "titulares": [
-        "After extending truce, Trump claims Iran ‘collapsing financially’ over Hormuz closure",
-        "Iran ready for talks in Islamabad if US lifts blockade, UN envoy says",
-        "Container ship attacked in Strait of Hormuz — UKMTO"
+        "Container ship attacked in Strait of Hormuz — UKMTO",
+        "Middle East war live: Three ships attacked in Strait of Hormuz as US prolongs ceasefire",
+        "Middle East war live: Iran seizes two vessels in Strait of Hormuz, state media says"
     ],
-    "updated": "2026-04-25 08:01:12.968676"
+    "updated": "2026-04-25 08:31:00.046283"
 }
