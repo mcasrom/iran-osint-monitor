@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 55,
+    "alertas": 54,
     "nivel": "rojo",
     "titulares": [
-        "Iran tightens control of Hormuz after US calls off renewed attacks",
         "Iran collects revenue from Strait of Hormuz transit fees for first time — parliament",
-        "Iran continues crude exports despite US blockade: analysis"
+        "Iran continues crude exports despite US blockade: analysis",
+        "Iran says it won’t reopen Strait of Hormuz as long as US is blockading ports"
     ],
-    "updated": "2026-04-26 10:31:38.863746"
+    "updated": "2026-04-26 11:03:00.440473"
 }
