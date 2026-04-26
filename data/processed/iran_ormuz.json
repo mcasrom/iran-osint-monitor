@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 45,
+    "alertas": 43,
     "nivel": "rojo",
     "titulares": [
-        "Trump says he ordered US Navy to ‘shoot and kill’ boats mining the Strait of Hormuz",
-        "Iran flaunts its grip over the Strait of Hormuz with commandos storming cargo ship",
-        "Iran central bank confirms Strait of Hormuz fees received in cash"
+        "Iran central bank confirms Strait of Hormuz fees received in cash",
+        "Trump says he is keeping Strait of Hormuz closed, not Iran",
+        "French president rejects coercive US blockades against Iran"
     ],
-    "updated": "2026-04-26 20:31:22.701325"
+    "updated": "2026-04-26 21:02:29.386587"
 }
