@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 59,
+    "alertas": 58,
     "nivel": "rojo",
     "titulares": [
-        "US redirects 29 ships since start of naval blockade of Iran — CENTCOM",
         "US intercepts Iran oil tankers in Asian waters as demining of Hormuz expected to take months",
-        "Pentagon predicts 6 months needed to clear mines from Strait of Hormuz — source"
+        "Pentagon predicts 6 months needed to clear mines from Strait of Hormuz — source",
+        "US forces 31 vessels to turn around since start of naval blockade of Iran — command"
     ],
-    "updated": "2026-04-26 03:34:25.434626"
+    "updated": "2026-04-26 04:01:36.648813"
 }
