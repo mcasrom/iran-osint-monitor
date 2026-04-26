@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 47,
+    "alertas": 46,
     "nivel": "rojo",
     "titulares": [
-        "Trump says Strait of Hormuz ‘sealed up tight’ by US until Iran agrees to make deal",
         "US to ‘shoot and kill’ Iranian boats laying mines in Hormuz, Trump says",
-        "Trump orders Iran mine-layers sunk, as Iran tolls tankers"
+        "Trump orders Iran mine-layers sunk, as Iran tolls tankers",
+        "US says it redirected 33 ships under Iran naval blockade"
     ],
-    "updated": "2026-04-26 16:32:44.809306"
+    "updated": "2026-04-26 17:01:50.480824"
 }
