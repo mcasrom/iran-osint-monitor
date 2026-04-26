@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 61,
+    "alertas": 60,
     "nivel": "rojo",
     "titulares": [
-        "Poor shipping in Hormuz, Iran blockade affect Russia — deputy foreign minister",
         "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
-        "US Centcom says 31 vessels have been redirected as part of blockade on Iran"
+        "US Centcom says 31 vessels have been redirected as part of blockade on Iran",
+        "US redirects 29 ships since start of naval blockade of Iran — CENTCOM"
     ],
-    "updated": "2026-04-26 02:02:07.654142"
+    "updated": "2026-04-26 02:32:15.662760"
 }
