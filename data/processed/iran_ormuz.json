@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 58,
+    "alertas": 57,
     "nivel": "rojo",
     "titulares": [
-        "US intercepts Iran oil tankers in Asian waters as demining of Hormuz expected to take months",
         "Pentagon predicts 6 months needed to clear mines from Strait of Hormuz — source",
-        "US forces 31 vessels to turn around since start of naval blockade of Iran — command"
+        "US forces 31 vessels to turn around since start of naval blockade of Iran — command",
+        "Iran tightens control of Hormuz after US calls off renewed attacks"
     ],
-    "updated": "2026-04-26 04:01:36.648813"
+    "updated": "2026-04-26 04:31:40.740554"
 }
