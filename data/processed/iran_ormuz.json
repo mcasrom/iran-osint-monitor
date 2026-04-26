@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 46,
+    "alertas": 45,
     "nivel": "rojo",
     "titulares": [
-        "US to ‘shoot and kill’ Iranian boats laying mines in Hormuz, Trump says",
         "Trump orders Iran mine-layers sunk, as Iran tolls tankers",
-        "US says it redirected 33 ships under Iran naval blockade"
+        "US says it redirected 33 ships under Iran naval blockade",
+        "Trump says he ordered US Navy to ‘shoot and kill’ boats mining the Strait of Hormuz"
     ],
-    "updated": "2026-04-26 17:01:50.480824"
+    "updated": "2026-04-26 17:33:28.137733"
 }
