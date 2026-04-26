@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 50,
+    "alertas": 49,
     "nivel": "rojo",
     "titulares": [
-        "Pentagon denies reported assessment that de-mining Hormuz will take six months",
         "Trump claims US has 'total control' over Strait of Hormuz",
-        "US says forces boarded tanker carrying Iranian oil"
+        "US says forces boarded tanker carrying Iranian oil",
+        "Trump orders US Navy to destroy boats laying mines in Hormuz"
     ],
-    "updated": "2026-04-26 14:31:26.846481"
+    "updated": "2026-04-26 15:01:24.520380"
 }
