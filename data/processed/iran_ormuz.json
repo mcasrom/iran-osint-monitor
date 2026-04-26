@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 60,
+    "alertas": 59,
     "nivel": "rojo",
     "titulares": [
-        "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
-        "US Centcom says 31 vessels have been redirected as part of blockade on Iran",
-        "US redirects 29 ships since start of naval blockade of Iran — CENTCOM"
+        "US redirects 29 ships since start of naval blockade of Iran — CENTCOM",
+        "US intercepts Iran oil tankers in Asian waters as demining of Hormuz expected to take months",
+        "Pentagon predicts 6 months needed to clear mines from Strait of Hormuz — source"
     ],
-    "updated": "2026-04-26 02:32:15.662760"
+    "updated": "2026-04-26 03:02:14.204987"
 }
