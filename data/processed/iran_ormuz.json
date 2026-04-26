@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 53,
+    "alertas": 52,
     "nivel": "rojo",
     "titulares": [
-        "Iran continues crude exports despite US blockade: analysis",
         "Iran says it won’t reopen Strait of Hormuz as long as US is blockading ports",
-        "How Iran raised Hormuz stakes by capturing ships"
+        "How Iran raised Hormuz stakes by capturing ships",
+        "Iran principlists call for ships t be seized in Straight of Hormuz: Press review"
     ],
-    "updated": "2026-04-26 12:01:56.004349"
+    "updated": "2026-04-26 12:32:25.559528"
 }
