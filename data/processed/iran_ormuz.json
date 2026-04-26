@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 56,
+    "alertas": 55,
     "nivel": "rojo",
     "titulares": [
-        "US forces 31 vessels to turn around since start of naval blockade of Iran — command",
         "Iran tightens control of Hormuz after US calls off renewed attacks",
-        "Iran collects revenue from Strait of Hormuz transit fees for first time — parliament"
+        "Iran collects revenue from Strait of Hormuz transit fees for first time — parliament",
+        "Iran continues crude exports despite US blockade: analysis"
     ],
-    "updated": "2026-04-26 08:32:52.614332"
+    "updated": "2026-04-26 09:01:31.733183"
 }
