@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 57,
+    "alertas": 56,
     "nivel": "rojo",
     "titulares": [
-        "Pentagon predicts 6 months needed to clear mines from Strait of Hormuz — source",
         "US forces 31 vessels to turn around since start of naval blockade of Iran — command",
-        "Iran tightens control of Hormuz after US calls off renewed attacks"
+        "Iran tightens control of Hormuz after US calls off renewed attacks",
+        "Iran collects revenue from Strait of Hormuz transit fees for first time — parliament"
     ],
-    "updated": "2026-04-26 05:31:04.200054"
+    "updated": "2026-04-26 06:03:32.461718"
 }
