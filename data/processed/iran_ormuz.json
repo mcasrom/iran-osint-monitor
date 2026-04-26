@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 43,
+    "alertas": 42,
     "nivel": "rojo",
     "titulares": [
-        "Iran central bank confirms Strait of Hormuz fees received in cash",
         "Trump says he is keeping Strait of Hormuz closed, not Iran",
-        "French president rejects coercive US blockades against Iran"
+        "French president rejects coercive US blockades against Iran",
+        "US considers strikes on Iranian targets in Strait of Hormuz — CNN"
     ],
-    "updated": "2026-04-26 22:01:18.208189"
+    "updated": "2026-04-26 22:31:29.282923"
 }
