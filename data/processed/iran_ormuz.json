@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 47,
+    "alertas": 45,
     "nivel": "rojo",
     "titulares": [
-        "Trump orders Iran mine-layers sunk, as Iran tolls tankers",
-        "US says it redirected 33 ships under Iran naval blockade",
-        "Trump says he ordered US Navy to ‘shoot and kill’ boats mining the Strait of Hormuz"
+        "Trump says he ordered US Navy to ‘shoot and kill’ boats mining the Strait of Hormuz",
+        "Iran flaunts its grip over the Strait of Hormuz with commandos storming cargo ship",
+        "Iran central bank confirms Strait of Hormuz fees received in cash"
     ],
-    "updated": "2026-04-26 20:01:25.256983"
+    "updated": "2026-04-26 20:31:22.701325"
 }
