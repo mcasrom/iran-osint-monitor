@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 54,
+    "alertas": 53,
     "nivel": "rojo",
     "titulares": [
-        "Iran collects revenue from Strait of Hormuz transit fees for first time — parliament",
         "Iran continues crude exports despite US blockade: analysis",
-        "Iran says it won’t reopen Strait of Hormuz as long as US is blockading ports"
+        "Iran says it won’t reopen Strait of Hormuz as long as US is blockading ports",
+        "How Iran raised Hormuz stakes by capturing ships"
     ],
-    "updated": "2026-04-26 11:03:00.440473"
+    "updated": "2026-04-26 11:31:36.562328"
 }
