@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 49,
+    "alertas": 47,
     "nivel": "rojo",
     "titulares": [
-        "Trump claims US has 'total control' over Strait of Hormuz",
-        "US says forces boarded tanker carrying Iranian oil",
-        "Trump orders US Navy to destroy boats laying mines in Hormuz"
+        "Trump orders US Navy to destroy boats laying mines in Hormuz",
+        "Iran economy looks set to withstand US naval blockade, analysts say",
+        "Trump says Strait of Hormuz ‘sealed up tight’ by US until Iran agrees to make deal"
     ],
-    "updated": "2026-04-26 15:01:24.520380"
+    "updated": "2026-04-26 15:32:14.080736"
 }
