@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 47,
+    "alertas": 46,
     "nivel": "rojo",
     "titulares": [
-        "Iran grants fee exemption on Hormuz passage for 'friendly' countries",
         "Strait of Hormuz: Iran, US seize ships",
-        "Hormuz standoff chokes 20% of oil supply"
+        "Hormuz standoff chokes 20% of oil supply",
+        "How long can Iran survive the US’s Hormuz blockade?"
     ],
-    "updated": "2026-04-27 08:01:27.661725"
+    "updated": "2026-04-27 08:32:52.350568"
 }
