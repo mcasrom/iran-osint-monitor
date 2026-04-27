@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 46,
+    "alertas": 45,
     "nivel": "rojo",
     "titulares": [
-        "Discounts on Russian oil to keep narrowing even if Strait of Hormuz opens — analyst",
-        "CENTCOM: US has redirected 34 ships in Strait of Hormuz to date",
-        "US Navy authorised to target Iranian fast boats in Strait of Hormuz"
+        "US Navy authorised to target Iranian fast boats in Strait of Hormuz",
+        "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
+        "Centcom: US has redirected 34 ships in Strait of Hormuz to date"
     ],
-    "updated": "2026-04-27 16:31:32.421663"
+    "updated": "2026-04-27 17:01:36.583029"
 }
