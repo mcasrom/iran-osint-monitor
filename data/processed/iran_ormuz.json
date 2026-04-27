@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 50,
+    "alertas": 49,
     "nivel": "rojo",
     "titulares": [
-        "US army developing plans to target Hormuz Strait if Iran truce deal shatters: Report",
         "US said developing new attack plans targeting Strait of Hormuz, Iranian military leaders",
-        "Middle East war live: Oil prices jump as tensions remain high in Strait of Hormuz"
+        "Middle East war live: Oil prices jump as tensions remain high in Strait of Hormuz",
+        "Iran grants fee exemption on Hormuz passage for 'friendly' countries"
     ],
-    "updated": "2026-04-27 07:01:44.758338"
+    "updated": "2026-04-27 07:31:42.627702"
 }
