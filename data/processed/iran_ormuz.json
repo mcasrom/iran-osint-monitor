@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 47,
+    "alertas": 46,
     "nivel": "rojo",
     "titulares": [
-        "Pirates hijack oil tanker off the coast of Somalia",
         "Retired US Army Colonel discusses naval strategy in Hormuz",
-        "Top Russian, UAE diplomats call for talks on Strait of Hormuz"
+        "Top Russian, UAE diplomats call for talks on Strait of Hormuz",
+        "Hormuz blockade drives Panama Canal fees up to $4m"
     ],
-    "updated": "2026-04-27 20:01:32.425199"
+    "updated": "2026-04-27 20:31:47.820690"
 }
