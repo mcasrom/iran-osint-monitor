@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 47,
+    "alertas": 46,
     "nivel": "rojo",
     "titulares": [
-        "US Defense Secretary Hegseth: 'US blockade has gone global'",
         "Discounts on Russian oil to keep narrowing even if Strait of Hormuz opens — analyst",
-        "CENTCOM: US has redirected 34 ships in Strait of Hormuz to date"
+        "CENTCOM: US has redirected 34 ships in Strait of Hormuz to date",
+        "US Navy authorised to target Iranian fast boats in Strait of Hormuz"
     ],
-    "updated": "2026-04-27 16:01:44.794300"
+    "updated": "2026-04-27 16:31:32.421663"
 }
