@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 44,
+    "alertas": 45,
     "nivel": "rojo",
     "titulares": [
         "Centcom: US has redirected 34 ships in Strait of Hormuz to date",
         "Pirates hijack oil tanker off the coast of Somalia",
         "Retired US Army Colonel discusses naval strategy in Hormuz"
     ],
-    "updated": "2026-04-27 18:01:41.497804"
+    "updated": "2026-04-27 18:31:23.730769"
 }
