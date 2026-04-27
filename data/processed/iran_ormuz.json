@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 46,
+    "alertas": 45,
     "nivel": "rojo",
     "titulares": [
-        "Retired US Army Colonel discusses naval strategy in Hormuz",
         "Top Russian, UAE diplomats call for talks on Strait of Hormuz",
-        "Hormuz blockade drives Panama Canal fees up to $4m"
+        "Hormuz blockade drives Panama Canal fees up to $4m",
+        "Strait of Hormuz closure may trigger global economic crisis — Jeffrey Sachs"
     ],
-    "updated": "2026-04-27 20:31:47.820690"
+    "updated": "2026-04-27 21:01:29.817647"
 }
