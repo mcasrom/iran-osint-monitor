@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 49,
+    "alertas": 47,
     "nivel": "rojo",
     "titulares": [
-        "US said developing new attack plans targeting Strait of Hormuz, Iranian military leaders",
-        "Middle East war live: Oil prices jump as tensions remain high in Strait of Hormuz",
-        "Iran grants fee exemption on Hormuz passage for 'friendly' countries"
+        "Iran grants fee exemption on Hormuz passage for 'friendly' countries",
+        "Strait of Hormuz: Iran, US seize ships",
+        "Hormuz standoff chokes 20% of oil supply"
     ],
-    "updated": "2026-04-27 07:31:42.627702"
+    "updated": "2026-04-27 08:01:27.661725"
 }
