@@ -1,11 +1,11 @@
 {
     "status": "monitorizando",
-    "alertas": 45,
+    "alertas": 44,
     "nivel": "rojo",
     "titulares": [
-        "US Navy authorised to target Iranian fast boats in Strait of Hormuz",
         "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
-        "Centcom: US has redirected 34 ships in Strait of Hormuz to date"
+        "Centcom: US has redirected 34 ships in Strait of Hormuz to date",
+        "Pirates hijack oil tanker off the coast of Somalia"
     ],
-    "updated": "2026-04-27 17:01:36.583029"
+    "updated": "2026-04-27 17:31:29.558306"
 }
